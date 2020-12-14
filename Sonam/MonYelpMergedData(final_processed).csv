@@ -1,0 +1,3438 @@
+user_id_key,business_id_key,stars,business_name
+0,0,5.0,Dunn's Famous
+1,1,5.0,Copper Branch
+2,2,3.0,Stash Café
+3,0,5.0,Dunn's Famous
+4,3,4.0,La Société Montréal
+5,4,4.0,Cacao 70
+6,5,3.0,La Chronique
+6,6,4.0,Toi Moi & Café
+7,7,5.0,Saint-Laurent Warehouse
+8,8,4.0,Cacao 70
+8,9,4.0,Cacao 70
+8,10,3.0,Pasta Casareccia
+8,11,3.0,Scéna
+8,12,2.0,Les 3 Brasseurs
+8,13,5.0,L’Entrepôt - Mont-Royal
+9,14,3.0,La Bella Italiana
+10,9,4.0,Cacao 70
+11,3,4.0,La Société Montréal
+12,15,1.0,Freshii
+12,9,5.0,Cacao 70
+12,16,4.0,Restaurant Bitoque
+12,13,3.0,L’Entrepôt - Mont-Royal
+13,17,3.0,Les 3 Brasseurs
+14,8,5.0,Cacao 70
+14,18,4.0,Wendy's
+15,19,4.0,Chez Ma Tante
+15,20,4.0,The Bier Markt
+15,21,3.0,Casa Grecque Pie Ix
+15,22,2.0,Mon Shing
+15,23,4.0,Restaurant Granada
+16,2,4.0,Stash Café
+17,4,5.0,Cacao 70
+18,24,5.0,Tri Express
+19,25,3.0,Le Warehouse
+20,20,1.0,The Bier Markt
+21,9,4.0,Cacao 70
+21,1,4.0,Copper Branch
+22,26,3.0,Les 3 Brasseurs
+23,6,5.0,Toi Moi & Café
+24,9,3.0,Cacao 70
+24,12,4.0,Les 3 Brasseurs
+24,12,4.0,Les 3 Brasseurs
+25,0,5.0,Dunn's Famous
+26,2,5.0,Stash Café
+27,13,5.0,L’Entrepôt - Mont-Royal
+28,9,4.0,Cacao 70
+28,27,4.0,Pigeon
+28,4,4.0,Cacao 70
+29,8,3.0,Cacao 70
+30,20,3.0,The Bier Markt
+30,25,4.0,Le Warehouse
+30,28,3.0,Dairy Queen
+30,29,3.0,Cacao 70
+30,12,1.0,Les 3 Brasseurs
+30,4,4.0,Cacao 70
+30,30,4.0,Second Cup
+30,31,4.0,Dairy Queen - Orange Julius
+30,13,3.0,L’Entrepôt - Mont-Royal
+31,9,4.0,Cacao 70
+32,2,5.0,Stash Café
+33,32,2.0,Bâton Rouge Steakhouse & Bar
+34,33,2.0,Diablos
+35,34,3.0,Bâton Rouge Steakhouse & Bar
+36,2,4.0,Stash Café
+37,35,5.0,Wendy's
+37,25,5.0,Le Warehouse
+37,0,3.0,Dunn's Famous
+37,0,4.0,Dunn's Famous
+37,6,3.0,Toi Moi & Café
+38,36,4.0,Le Vieux Dublin Pub & Restaurant
+38,25,4.0,Le Warehouse
+38,12,3.0,Les 3 Brasseurs
+39,13,5.0,L’Entrepôt - Mont-Royal
+40,33,3.0,Diablos
+40,20,3.0,The Bier Markt
+40,37,4.0,Da Bologna
+40,30,4.0,Second Cup
+40,17,4.0,Les 3 Brasseurs
+41,0,3.0,Dunn's Famous
+42,17,2.0,Les 3 Brasseurs
+43,9,4.0,Cacao 70
+43,38,2.0,Restaurant Sai Gwan
+44,2,5.0,Stash Café
+45,2,5.0,Stash Café
+46,20,3.0,The Bier Markt
+47,0,3.0,Dunn's Famous
+48,4,4.0,Cacao 70
+49,20,3.0,The Bier Markt
+49,36,4.0,Le Vieux Dublin Pub & Restaurant
+49,24,4.0,Tri Express
+49,0,5.0,Dunn's Famous
+49,17,4.0,Les 3 Brasseurs
+49,13,4.0,L’Entrepôt - Mont-Royal
+49,26,4.0,Les 3 Brasseurs
+50,9,4.0,Cacao 70
+50,2,4.0,Stash Café
+51,10,5.0,Pasta Casareccia
+52,0,5.0,Dunn's Famous
+53,12,3.0,Les 3 Brasseurs
+54,22,4.0,Mon Shing
+54,16,2.0,Restaurant Bitoque
+55,8,5.0,Cacao 70
+55,29,3.0,Cacao 70
+55,17,3.0,Les 3 Brasseurs
+56,19,5.0,Chez Ma Tante
+56,37,4.0,Da Bologna
+56,30,4.0,Second Cup
+56,34,1.0,Bâton Rouge Steakhouse & Bar
+57,10,4.0,Pasta Casareccia
+57,2,4.0,Stash Café
+58,38,4.0,Restaurant Sai Gwan
+59,33,4.0,Diablos
+59,14,5.0,La Bella Italiana
+59,9,4.0,Cacao 70
+59,39,2.0,La Concession- Boutique + Comptoir Alimentaire
+60,17,4.0,Les 3 Brasseurs
+61,34,2.0,Bâton Rouge Steakhouse & Bar
+62,9,5.0,Cacao 70
+62,2,4.0,Stash Café
+63,26,2.0,Les 3 Brasseurs
+64,12,3.0,Les 3 Brasseurs
+65,9,3.0,Cacao 70
+65,9,3.0,Cacao 70
+66,0,3.0,Dunn's Famous
+67,33,3.0,Diablos
+67,20,4.0,The Bier Markt
+67,29,3.0,Cacao 70
+67,37,5.0,Da Bologna
+67,34,2.0,Bâton Rouge Steakhouse & Bar
+68,9,5.0,Cacao 70
+69,3,5.0,La Société Montréal
+70,1,4.0,Copper Branch
+70,3,4.0,La Société Montréal
+71,20,5.0,The Bier Markt
+72,30,4.0,Second Cup
+73,18,1.0,Wendy's
+74,9,4.0,Cacao 70
+74,4,4.0,Cacao 70
+74,13,4.0,L’Entrepôt - Mont-Royal
+75,0,2.0,Dunn's Famous
+76,20,5.0,The Bier Markt
+77,32,4.0,Bâton Rouge Steakhouse & Bar
+78,2,5.0,Stash Café
+79,0,4.0,Dunn's Famous
+80,7,4.0,Saint-Laurent Warehouse
+81,19,5.0,Chez Ma Tante
+81,24,4.0,Tri Express
+81,39,3.0,La Concession- Boutique + Comptoir Alimentaire
+82,14,3.0,La Bella Italiana
+83,20,2.0,The Bier Markt
+83,9,4.0,Cacao 70
+84,9,4.0,Cacao 70
+84,0,3.0,Dunn's Famous
+85,40,3.0,Holiday Inn Montreal Centreville Downtown
+86,2,5.0,Stash Café
+86,13,4.0,L’Entrepôt - Mont-Royal
+87,12,3.0,Les 3 Brasseurs
+88,0,4.0,Dunn's Famous
+89,2,2.0,Stash Café
+89,38,4.0,Restaurant Sai Gwan
+90,2,2.0,Stash Café
+91,17,3.0,Les 3 Brasseurs
+92,13,5.0,L’Entrepôt - Mont-Royal
+93,13,4.0,L’Entrepôt - Mont-Royal
+94,0,4.0,Dunn's Famous
+95,39,2.0,La Concession- Boutique + Comptoir Alimentaire
+96,20,5.0,The Bier Markt
+97,12,4.0,Les 3 Brasseurs
+98,30,4.0,Second Cup
+99,2,5.0,Stash Café
+100,8,4.0,Cacao 70
+101,0,3.0,Dunn's Famous
+102,12,4.0,Les 3 Brasseurs
+103,12,3.0,Les 3 Brasseurs
+103,24,5.0,Tri Express
+103,26,3.0,Les 3 Brasseurs
+104,12,3.0,Les 3 Brasseurs
+104,13,4.0,L’Entrepôt - Mont-Royal
+104,26,3.0,Les 3 Brasseurs
+104,34,3.0,Bâton Rouge Steakhouse & Bar
+105,2,5.0,Stash Café
+106,12,3.0,Les 3 Brasseurs
+106,17,3.0,Les 3 Brasseurs
+107,2,4.0,Stash Café
+108,8,3.0,Cacao 70
+109,0,5.0,Dunn's Famous
+110,17,2.0,Les 3 Brasseurs
+111,4,4.0,Cacao 70
+112,2,5.0,Stash Café
+113,41,3.0,Noobox
+114,12,5.0,Les 3 Brasseurs
+115,9,5.0,Cacao 70
+116,9,3.0,Cacao 70
+117,2,3.0,Stash Café
+118,0,4.0,Dunn's Famous
+119,36,3.0,Le Vieux Dublin Pub & Restaurant
+119,0,4.0,Dunn's Famous
+119,17,3.0,Les 3 Brasseurs
+120,17,4.0,Les 3 Brasseurs
+121,6,4.0,Toi Moi & Café
+122,0,3.0,Dunn's Famous
+122,0,4.0,Dunn's Famous
+123,9,5.0,Cacao 70
+124,0,4.0,Dunn's Famous
+125,2,4.0,Stash Café
+126,38,4.0,Restaurant Sai Gwan
+127,9,4.0,Cacao 70
+127,2,4.0,Stash Café
+127,13,4.0,L’Entrepôt - Mont-Royal
+128,20,4.0,The Bier Markt
+129,12,2.0,Les 3 Brasseurs
+130,4,4.0,Cacao 70
+131,3,4.0,La Société Montréal
+132,2,4.0,Stash Café
+133,0,5.0,Dunn's Famous
+134,17,3.0,Les 3 Brasseurs
+135,12,3.0,Les 3 Brasseurs
+136,10,5.0,Pasta Casareccia
+137,2,3.0,Stash Café
+138,2,4.0,Stash Café
+139,3,4.0,La Société Montréal
+139,12,4.0,Les 3 Brasseurs
+140,42,3.0,Petit Tokebi Le
+141,30,4.0,Second Cup
+142,12,3.0,Les 3 Brasseurs
+142,30,4.0,Second Cup
+143,17,5.0,Les 3 Brasseurs
+143,6,4.0,Toi Moi & Café
+144,8,5.0,Cacao 70
+145,20,4.0,The Bier Markt
+146,20,1.0,The Bier Markt
+146,1,1.0,Copper Branch
+146,24,4.0,Tri Express
+146,4,4.0,Cacao 70
+147,9,5.0,Cacao 70
+148,24,5.0,Tri Express
+149,6,4.0,Toi Moi & Café
+150,24,5.0,Tri Express
+151,9,3.0,Cacao 70
+152,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+152,16,4.0,Restaurant Bitoque
+153,2,4.0,Stash Café
+153,24,4.0,Tri Express
+153,44,5.0,Atami
+154,18,3.0,Wendy's
+154,34,3.0,Bâton Rouge Steakhouse & Bar
+155,19,4.0,Chez Ma Tante
+156,34,3.0,Bâton Rouge Steakhouse & Bar
+157,4,4.0,Cacao 70
+158,45,4.0,Yeh
+158,20,4.0,The Bier Markt
+158,46,2.0,Restaurant La Flamberge Montréal Nord
+159,33,5.0,Diablos
+160,22,5.0,Mon Shing
+160,38,4.0,Restaurant Sai Gwan
+161,14,4.0,La Bella Italiana
+161,24,4.0,Tri Express
+162,1,3.0,Copper Branch
+163,9,3.0,Cacao 70
+163,12,4.0,Les 3 Brasseurs
+164,30,4.0,Second Cup
+165,8,5.0,Cacao 70
+166,33,3.0,Diablos
+166,15,3.0,Freshii
+166,22,4.0,Mon Shing
+166,27,4.0,Pigeon
+166,47,4.0,Copper Branch
+167,3,4.0,La Société Montréal
+168,17,3.0,Les 3 Brasseurs
+169,9,5.0,Cacao 70
+170,27,4.0,Pigeon
+171,20,1.0,The Bier Markt
+172,0,5.0,Dunn's Famous
+173,12,3.0,Les 3 Brasseurs
+173,40,3.0,Holiday Inn Montreal Centreville Downtown
+174,48,3.0,L'Oeufrier
+174,25,2.0,Le Warehouse
+174,16,2.0,Restaurant Bitoque
+174,13,4.0,L’Entrepôt - Mont-Royal
+174,44,3.0,Atami
+175,3,4.0,La Société Montréal
+176,9,5.0,Cacao 70
+177,49,4.0,Dany Pizza
+178,9,4.0,Cacao 70
+179,25,4.0,Le Warehouse
+179,12,4.0,Les 3 Brasseurs
+180,0,5.0,Dunn's Famous
+181,9,4.0,Cacao 70
+182,9,3.0,Cacao 70
+183,12,4.0,Les 3 Brasseurs
+184,34,2.0,Bâton Rouge Steakhouse & Bar
+185,17,1.0,Les 3 Brasseurs
+186,20,5.0,The Bier Markt
+187,10,5.0,Pasta Casareccia
+187,5,4.0,La Chronique
+188,3,4.0,La Société Montréal
+189,15,4.0,Freshii
+189,25,4.0,Le Warehouse
+189,12,4.0,Les 3 Brasseurs
+189,4,4.0,Cacao 70
+190,3,4.0,La Société Montréal
+191,17,5.0,Les 3 Brasseurs
+192,20,5.0,The Bier Markt
+192,30,3.0,Second Cup
+193,37,5.0,Da Bologna
+194,17,3.0,Les 3 Brasseurs
+195,2,5.0,Stash Café
+196,2,4.0,Stash Café
+197,3,2.0,La Société Montréal
+198,22,1.0,Mon Shing
+199,3,4.0,La Société Montréal
+200,2,4.0,Stash Café
+201,0,4.0,Dunn's Famous
+202,9,5.0,Cacao 70
+203,1,4.0,Copper Branch
+204,49,3.0,Dany Pizza
+205,36,3.0,Le Vieux Dublin Pub & Restaurant
+206,36,4.0,Le Vieux Dublin Pub & Restaurant
+207,40,3.0,Holiday Inn Montreal Centreville Downtown
+208,0,3.0,Dunn's Famous
+209,2,4.0,Stash Café
+210,17,4.0,Les 3 Brasseurs
+211,8,5.0,Cacao 70
+212,17,3.0,Les 3 Brasseurs
+213,36,5.0,Le Vieux Dublin Pub & Restaurant
+214,12,2.0,Les 3 Brasseurs
+215,0,5.0,Dunn's Famous
+216,1,3.0,Copper Branch
+217,9,2.0,Cacao 70
+218,2,3.0,Stash Café
+219,40,4.0,Holiday Inn Montreal Centreville Downtown
+220,1,4.0,Copper Branch
+221,9,3.0,Cacao 70
+222,40,3.0,Holiday Inn Montreal Centreville Downtown
+223,9,1.0,Cacao 70
+224,0,5.0,Dunn's Famous
+225,4,2.0,Cacao 70
+226,9,4.0,Cacao 70
+226,44,5.0,Atami
+227,0,5.0,Dunn's Famous
+228,30,3.0,Second Cup
+229,2,4.0,Stash Café
+230,12,4.0,Les 3 Brasseurs
+231,12,5.0,Les 3 Brasseurs
+232,12,4.0,Les 3 Brasseurs
+233,12,2.0,Les 3 Brasseurs
+234,30,4.0,Second Cup
+235,25,4.0,Le Warehouse
+235,4,4.0,Cacao 70
+235,13,4.0,L’Entrepôt - Mont-Royal
+236,36,2.0,Le Vieux Dublin Pub & Restaurant
+237,29,1.0,Cacao 70
+238,2,5.0,Stash Café
+239,17,5.0,Les 3 Brasseurs
+240,48,4.0,L'Oeufrier
+241,20,3.0,The Bier Markt
+241,9,4.0,Cacao 70
+241,25,4.0,Le Warehouse
+241,16,5.0,Restaurant Bitoque
+241,24,3.0,Tri Express
+241,6,4.0,Toi Moi & Café
+241,44,4.0,Atami
+242,4,3.0,Cacao 70
+243,1,4.0,Copper Branch
+244,33,2.0,Diablos
+244,9,3.0,Cacao 70
+244,1,3.0,Copper Branch
+245,20,3.0,The Bier Markt
+245,9,4.0,Cacao 70
+245,36,4.0,Le Vieux Dublin Pub & Restaurant
+245,16,4.0,Restaurant Bitoque
+246,9,3.0,Cacao 70
+246,10,4.0,Pasta Casareccia
+246,2,3.0,Stash Café
+246,36,3.0,Le Vieux Dublin Pub & Restaurant
+246,22,4.0,Mon Shing
+246,50,3.0,Copper Branch
+246,29,3.0,Cacao 70
+246,24,4.0,Tri Express
+246,41,3.0,Noobox
+246,39,3.0,La Concession- Boutique + Comptoir Alimentaire
+246,38,3.0,Restaurant Sai Gwan
+247,20,1.0,The Bier Markt
+248,43,4.0,Misoya - Cuisine Japonaise Et Coréenne
+249,12,2.0,Les 3 Brasseurs
+250,12,3.0,Les 3 Brasseurs
+251,20,1.0,The Bier Markt
+252,9,3.0,Cacao 70
+252,2,5.0,Stash Café
+253,9,2.0,Cacao 70
+253,16,4.0,Restaurant Bitoque
+253,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+254,47,5.0,Copper Branch
+255,0,5.0,Dunn's Famous
+256,2,3.0,Stash Café
+257,0,4.0,Dunn's Famous
+258,36,3.0,Le Vieux Dublin Pub & Restaurant
+259,12,5.0,Les 3 Brasseurs
+260,2,5.0,Stash Café
+261,12,4.0,Les 3 Brasseurs
+262,2,4.0,Stash Café
+263,22,3.0,Mon Shing
+264,2,4.0,Stash Café
+265,1,5.0,Copper Branch
+266,20,3.0,The Bier Markt
+267,26,4.0,Les 3 Brasseurs
+268,17,4.0,Les 3 Brasseurs
+269,9,4.0,Cacao 70
+270,4,1.0,Cacao 70
+271,2,5.0,Stash Café
+272,2,4.0,Stash Café
+273,20,4.0,The Bier Markt
+273,12,4.0,Les 3 Brasseurs
+274,8,3.0,Cacao 70
+274,20,2.0,The Bier Markt
+274,25,4.0,Le Warehouse
+275,17,3.0,Les 3 Brasseurs
+276,3,1.0,La Société Montréal
+277,2,4.0,Stash Café
+278,8,4.0,Cacao 70
+279,20,3.0,The Bier Markt
+280,13,5.0,L’Entrepôt - Mont-Royal
+281,6,4.0,Toi Moi & Café
+282,8,4.0,Cacao 70
+282,33,5.0,Diablos
+282,6,4.0,Toi Moi & Café
+282,26,4.0,Les 3 Brasseurs
+283,32,4.0,Bâton Rouge Steakhouse & Bar
+283,20,4.0,The Bier Markt
+283,9,4.0,Cacao 70
+283,2,4.0,Stash Café
+283,12,4.0,Les 3 Brasseurs
+283,17,4.0,Les 3 Brasseurs
+284,24,4.0,Tri Express
+285,9,4.0,Cacao 70
+286,9,4.0,Cacao 70
+287,13,5.0,L’Entrepôt - Mont-Royal
+288,2,4.0,Stash Café
+289,24,3.0,Tri Express
+289,13,4.0,L’Entrepôt - Mont-Royal
+290,26,3.0,Les 3 Brasseurs
+291,29,2.0,Cacao 70
+292,33,2.0,Diablos
+292,9,4.0,Cacao 70
+293,33,2.0,Diablos
+294,13,4.0,L’Entrepôt - Mont-Royal
+295,20,3.0,The Bier Markt
+295,16,3.0,Restaurant Bitoque
+296,14,4.0,La Bella Italiana
+297,12,4.0,Les 3 Brasseurs
+297,4,5.0,Cacao 70
+297,13,4.0,L’Entrepôt - Mont-Royal
+297,26,4.0,Les 3 Brasseurs
+297,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+298,33,4.0,Diablos
+298,20,4.0,The Bier Markt
+299,3,1.0,La Société Montréal
+300,2,5.0,Stash Café
+300,25,4.0,Le Warehouse
+301,18,4.0,Wendy's
+302,17,3.0,Les 3 Brasseurs
+303,13,4.0,L’Entrepôt - Mont-Royal
+304,13,4.0,L’Entrepôt - Mont-Royal
+304,44,3.0,Atami
+305,25,3.0,Le Warehouse
+305,13,3.0,L’Entrepôt - Mont-Royal
+306,1,5.0,Copper Branch
+307,1,3.0,Copper Branch
+307,25,4.0,Le Warehouse
+308,1,3.0,Copper Branch
+309,24,5.0,Tri Express
+310,9,4.0,Cacao 70
+311,25,3.0,Le Warehouse
+311,37,5.0,Da Bologna
+312,20,5.0,The Bier Markt
+313,8,4.0,Cacao 70
+313,3,5.0,La Société Montréal
+314,13,4.0,L’Entrepôt - Mont-Royal
+314,26,4.0,Les 3 Brasseurs
+315,14,4.0,La Bella Italiana
+315,9,3.0,Cacao 70
+316,22,1.0,Mon Shing
+317,0,4.0,Dunn's Famous
+318,0,3.0,Dunn's Famous
+319,33,3.0,Diablos
+319,20,3.0,The Bier Markt
+320,9,3.0,Cacao 70
+320,2,5.0,Stash Café
+320,25,3.0,Le Warehouse
+321,39,2.0,La Concession- Boutique + Comptoir Alimentaire
+322,20,3.0,The Bier Markt
+322,9,4.0,Cacao 70
+322,3,5.0,La Société Montréal
+323,26,1.0,Les 3 Brasseurs
+324,29,3.0,Cacao 70
+325,20,3.0,The Bier Markt
+325,27,5.0,Pigeon
+325,12,4.0,Les 3 Brasseurs
+326,25,4.0,Le Warehouse
+327,25,2.0,Le Warehouse
+328,51,2.0,Copper Branch
+328,24,3.0,Tri Express
+328,13,3.0,L’Entrepôt - Mont-Royal
+329,27,5.0,Pigeon
+330,41,2.0,Noobox
+331,51,1.0,Copper Branch
+332,1,4.0,Copper Branch
+333,2,4.0,Stash Café
+334,29,2.0,Cacao 70
+334,12,3.0,Les 3 Brasseurs
+334,13,4.0,L’Entrepôt - Mont-Royal
+335,12,3.0,Les 3 Brasseurs
+336,36,4.0,Le Vieux Dublin Pub & Restaurant
+337,27,5.0,Pigeon
+338,9,5.0,Cacao 70
+338,24,3.0,Tri Express
+339,0,4.0,Dunn's Famous
+340,20,2.0,The Bier Markt
+341,9,2.0,Cacao 70
+341,24,5.0,Tri Express
+341,13,2.0,L’Entrepôt - Mont-Royal
+342,9,4.0,Cacao 70
+342,9,5.0,Cacao 70
+342,4,4.0,Cacao 70
+343,20,4.0,The Bier Markt
+344,20,2.0,The Bier Markt
+344,16,4.0,Restaurant Bitoque
+345,20,1.0,The Bier Markt
+346,13,4.0,L’Entrepôt - Mont-Royal
+347,13,5.0,L’Entrepôt - Mont-Royal
+348,9,4.0,Cacao 70
+349,20,3.0,The Bier Markt
+350,8,5.0,Cacao 70
+351,0,4.0,Dunn's Famous
+352,20,5.0,The Bier Markt
+353,2,5.0,Stash Café
+354,20,3.0,The Bier Markt
+355,50,3.0,Copper Branch
+355,17,4.0,Les 3 Brasseurs
+356,12,2.0,Les 3 Brasseurs
+357,20,2.0,The Bier Markt
+358,36,2.0,Le Vieux Dublin Pub & Restaurant
+359,51,4.0,Copper Branch
+360,9,2.0,Cacao 70
+361,0,4.0,Dunn's Famous
+362,52,4.0,Lucille's Tapas
+362,9,5.0,Cacao 70
+362,2,5.0,Stash Café
+362,12,2.0,Les 3 Brasseurs
+362,0,1.0,Dunn's Famous
+362,0,2.0,Dunn's Famous
+363,12,4.0,Les 3 Brasseurs
+363,34,3.0,Bâton Rouge Steakhouse & Bar
+364,26,4.0,Les 3 Brasseurs
+365,17,4.0,Les 3 Brasseurs
+366,25,3.0,Le Warehouse
+367,9,4.0,Cacao 70
+368,0,4.0,Dunn's Famous
+369,12,2.0,Les 3 Brasseurs
+370,9,5.0,Cacao 70
+371,9,4.0,Cacao 70
+372,33,2.0,Diablos
+372,4,4.0,Cacao 70
+373,33,3.0,Diablos
+374,6,3.0,Toi Moi & Café
+375,0,3.0,Dunn's Famous
+376,6,4.0,Toi Moi & Café
+377,13,4.0,L’Entrepôt - Mont-Royal
+378,0,4.0,Dunn's Famous
+379,27,4.0,Pigeon
+380,4,4.0,Cacao 70
+381,9,5.0,Cacao 70
+381,9,5.0,Cacao 70
+381,25,4.0,Le Warehouse
+382,17,1.0,Les 3 Brasseurs
+383,3,3.0,La Société Montréal
+383,24,3.0,Tri Express
+384,9,4.0,Cacao 70
+384,2,5.0,Stash Café
+384,44,4.0,Atami
+385,24,5.0,Tri Express
+386,3,4.0,La Société Montréal
+386,17,3.0,Les 3 Brasseurs
+386,26,4.0,Les 3 Brasseurs
+387,16,4.0,Restaurant Bitoque
+388,24,4.0,Tri Express
+389,8,4.0,Cacao 70
+390,9,4.0,Cacao 70
+391,50,1.0,Copper Branch
+392,20,3.0,The Bier Markt
+392,9,3.0,Cacao 70
+393,25,4.0,Le Warehouse
+394,2,4.0,Stash Café
+395,16,5.0,Restaurant Bitoque
+396,30,4.0,Second Cup
+396,17,4.0,Les 3 Brasseurs
+397,53,3.0,Café des Beaux-Arts
+397,12,4.0,Les 3 Brasseurs
+398,0,4.0,Dunn's Famous
+399,20,5.0,The Bier Markt
+400,51,4.0,Copper Branch
+400,29,3.0,Cacao 70
+401,6,4.0,Toi Moi & Café
+402,16,4.0,Restaurant Bitoque
+403,9,4.0,Cacao 70
+404,29,3.0,Cacao 70
+405,8,4.0,Cacao 70
+406,33,1.0,Diablos
+407,2,5.0,Stash Café
+408,12,4.0,Les 3 Brasseurs
+408,17,3.0,Les 3 Brasseurs
+409,9,3.0,Cacao 70
+409,54,4.0,Dairy Queen
+409,36,2.0,Le Vieux Dublin Pub & Restaurant
+409,6,3.0,Toi Moi & Café
+409,34,3.0,Bâton Rouge Steakhouse & Bar
+410,9,4.0,Cacao 70
+411,0,3.0,Dunn's Famous
+411,13,3.0,L’Entrepôt - Mont-Royal
+411,34,3.0,Bâton Rouge Steakhouse & Bar
+412,0,4.0,Dunn's Famous
+413,8,3.0,Cacao 70
+413,2,4.0,Stash Café
+413,25,3.0,Le Warehouse
+413,3,5.0,La Société Montréal
+413,12,3.0,Les 3 Brasseurs
+413,0,4.0,Dunn's Famous
+413,30,3.0,Second Cup
+413,13,3.0,L’Entrepôt - Mont-Royal
+414,50,5.0,Copper Branch
+415,2,4.0,Stash Café
+416,4,4.0,Cacao 70
+417,20,4.0,The Bier Markt
+417,9,4.0,Cacao 70
+417,12,3.0,Les 3 Brasseurs
+418,30,4.0,Second Cup
+419,4,5.0,Cacao 70
+420,55,4.0,Ristorante Il Cenone
+420,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+421,24,3.0,Tri Express
+422,25,1.0,Le Warehouse
+423,6,4.0,Toi Moi & Café
+424,3,4.0,La Société Montréal
+425,25,4.0,Le Warehouse
+425,3,4.0,La Société Montréal
+425,4,4.0,Cacao 70
+426,15,5.0,Freshii
+426,47,4.0,Copper Branch
+427,30,4.0,Second Cup
+428,9,4.0,Cacao 70
+429,24,4.0,Tri Express
+430,2,3.0,Stash Café
+431,0,3.0,Dunn's Famous
+432,17,4.0,Les 3 Brasseurs
+433,12,4.0,Les 3 Brasseurs
+434,2,5.0,Stash Café
+435,13,5.0,L’Entrepôt - Mont-Royal
+436,30,3.0,Second Cup
+437,37,5.0,Da Bologna
+438,12,3.0,Les 3 Brasseurs
+438,0,4.0,Dunn's Famous
+439,17,3.0,Les 3 Brasseurs
+440,12,3.0,Les 3 Brasseurs
+440,4,4.0,Cacao 70
+440,13,3.0,L’Entrepôt - Mont-Royal
+440,26,4.0,Les 3 Brasseurs
+441,25,4.0,Le Warehouse
+442,29,3.0,Cacao 70
+442,13,4.0,L’Entrepôt - Mont-Royal
+443,25,3.0,Le Warehouse
+444,30,4.0,Second Cup
+445,56,4.0,Taj Mahal de l'Ouest
+446,32,2.0,Bâton Rouge Steakhouse & Bar
+447,33,3.0,Diablos
+448,12,1.0,Les 3 Brasseurs
+449,25,3.0,Le Warehouse
+450,8,4.0,Cacao 70
+451,13,5.0,L’Entrepôt - Mont-Royal
+452,24,3.0,Tri Express
+453,10,4.0,Pasta Casareccia
+453,56,2.0,Taj Mahal de l'Ouest
+454,51,4.0,Copper Branch
+455,9,4.0,Cacao 70
+456,33,4.0,Diablos
+457,20,4.0,The Bier Markt
+457,28,4.0,Dairy Queen
+457,12,3.0,Les 3 Brasseurs
+458,3,4.0,La Société Montréal
+458,24,4.0,Tri Express
+458,13,3.0,L’Entrepôt - Mont-Royal
+459,24,4.0,Tri Express
+460,29,5.0,Cacao 70
+461,9,3.0,Cacao 70
+462,9,4.0,Cacao 70
+463,30,4.0,Second Cup
+464,50,1.0,Copper Branch
+465,9,3.0,Cacao 70
+465,24,5.0,Tri Express
+466,9,4.0,Cacao 70
+467,16,3.0,Restaurant Bitoque
+468,2,4.0,Stash Café
+468,12,4.0,Les 3 Brasseurs
+469,9,5.0,Cacao 70
+469,24,5.0,Tri Express
+470,51,4.0,Copper Branch
+470,22,1.0,Mon Shing
+471,2,4.0,Stash Café
+472,5,4.0,La Chronique
+472,5,5.0,La Chronique
+473,9,4.0,Cacao 70
+473,10,4.0,Pasta Casareccia
+473,38,5.0,Restaurant Sai Gwan
+474,2,4.0,Stash Café
+475,36,2.0,Le Vieux Dublin Pub & Restaurant
+476,9,4.0,Cacao 70
+477,24,4.0,Tri Express
+478,1,3.0,Copper Branch
+479,9,3.0,Cacao 70
+480,9,5.0,Cacao 70
+481,57,4.0,Pizzarella Restaurant
+481,58,4.0,Casserole Kréole
+482,33,3.0,Diablos
+483,32,4.0,Bâton Rouge Steakhouse & Bar
+484,13,4.0,L’Entrepôt - Mont-Royal
+485,20,4.0,The Bier Markt
+485,2,4.0,Stash Café
+486,36,4.0,Le Vieux Dublin Pub & Restaurant
+486,3,3.0,La Société Montréal
+487,2,4.0,Stash Café
+488,9,4.0,Cacao 70
+488,25,3.0,Le Warehouse
+488,38,5.0,Restaurant Sai Gwan
+489,8,4.0,Cacao 70
+489,56,1.0,Taj Mahal de l'Ouest
+489,3,3.0,La Société Montréal
+489,27,5.0,Pigeon
+490,12,4.0,Les 3 Brasseurs
+491,33,2.0,Diablos
+491,2,5.0,Stash Café
+491,25,3.0,Le Warehouse
+491,27,4.0,Pigeon
+492,10,2.0,Pasta Casareccia
+492,10,4.0,Pasta Casareccia
+492,48,4.0,L'Oeufrier
+492,59,4.0,Pasteizza
+492,59,2.0,Pasteizza
+493,32,4.0,Bâton Rouge Steakhouse & Bar
+493,44,4.0,Atami
+494,20,4.0,The Bier Markt
+495,32,5.0,Bâton Rouge Steakhouse & Bar
+495,59,4.0,Pasteizza
+496,51,3.0,Copper Branch
+496,13,3.0,L’Entrepôt - Mont-Royal
+497,46,4.0,Restaurant La Flamberge Montréal Nord
+498,20,4.0,The Bier Markt
+498,20,5.0,The Bier Markt
+498,17,4.0,Les 3 Brasseurs
+499,12,4.0,Les 3 Brasseurs
+500,17,2.0,Les 3 Brasseurs
+501,13,3.0,L’Entrepôt - Mont-Royal
+502,20,3.0,The Bier Markt
+502,22,2.0,Mon Shing
+503,60,4.0,Sushi Station
+503,25,3.0,Le Warehouse
+504,58,5.0,Casserole Kréole
+504,61,3.0,Vincent Sous Marin
+504,4,4.0,Cacao 70
+505,25,1.0,Le Warehouse
+506,24,5.0,Tri Express
+507,9,5.0,Cacao 70
+507,25,4.0,Le Warehouse
+508,20,2.0,The Bier Markt
+509,36,5.0,Le Vieux Dublin Pub & Restaurant
+510,27,3.0,Pigeon
+510,26,1.0,Les 3 Brasseurs
+511,9,3.0,Cacao 70
+512,57,3.0,Pizzarella Restaurant
+512,14,4.0,La Bella Italiana
+512,46,3.0,Restaurant La Flamberge Montréal Nord
+512,37,4.0,Da Bologna
+513,30,5.0,Second Cup
+513,34,5.0,Bâton Rouge Steakhouse & Bar
+514,25,4.0,Le Warehouse
+515,25,5.0,Le Warehouse
+516,9,5.0,Cacao 70
+516,35,5.0,Wendy's
+516,18,5.0,Wendy's
+517,40,4.0,Holiday Inn Montreal Centreville Downtown
+518,0,2.0,Dunn's Famous
+519,2,5.0,Stash Café
+520,0,2.0,Dunn's Famous
+521,9,4.0,Cacao 70
+522,25,3.0,Le Warehouse
+523,30,4.0,Second Cup
+524,34,4.0,Bâton Rouge Steakhouse & Bar
+525,17,4.0,Les 3 Brasseurs
+526,3,1.0,La Société Montréal
+527,15,3.0,Freshii
+527,12,3.0,Les 3 Brasseurs
+527,4,3.0,Cacao 70
+528,2,4.0,Stash Café
+529,12,4.0,Les 3 Brasseurs
+530,12,3.0,Les 3 Brasseurs
+531,33,1.0,Diablos
+532,2,4.0,Stash Café
+533,20,4.0,The Bier Markt
+534,9,4.0,Cacao 70
+534,12,2.0,Les 3 Brasseurs
+535,40,5.0,Holiday Inn Montreal Centreville Downtown
+536,8,4.0,Cacao 70
+536,3,3.0,La Société Montréal
+536,4,4.0,Cacao 70
+537,21,3.0,Casa Grecque Pie Ix
+538,51,4.0,Copper Branch
+539,15,1.0,Freshii
+539,16,4.0,Restaurant Bitoque
+540,9,4.0,Cacao 70
+540,30,4.0,Second Cup
+541,12,3.0,Les 3 Brasseurs
+542,2,5.0,Stash Café
+543,12,4.0,Les 3 Brasseurs
+544,17,3.0,Les 3 Brasseurs
+545,0,3.0,Dunn's Famous
+546,2,3.0,Stash Café
+546,5,4.0,La Chronique
+547,0,3.0,Dunn's Famous
+547,17,3.0,Les 3 Brasseurs
+548,29,2.0,Cacao 70
+549,0,4.0,Dunn's Famous
+550,2,3.0,Stash Café
+551,26,3.0,Les 3 Brasseurs
+552,3,3.0,La Société Montréal
+553,0,3.0,Dunn's Famous
+554,0,4.0,Dunn's Famous
+555,12,2.0,Les 3 Brasseurs
+556,30,1.0,Second Cup
+557,5,5.0,La Chronique
+558,2,5.0,Stash Café
+559,12,5.0,Les 3 Brasseurs
+560,26,5.0,Les 3 Brasseurs
+561,20,5.0,The Bier Markt
+561,0,3.0,Dunn's Famous
+562,14,5.0,La Bella Italiana
+562,25,1.0,Le Warehouse
+563,48,5.0,L'Oeufrier
+564,9,1.0,Cacao 70
+565,12,3.0,Les 3 Brasseurs
+566,2,4.0,Stash Café
+567,8,2.0,Cacao 70
+568,0,4.0,Dunn's Famous
+569,9,4.0,Cacao 70
+570,12,4.0,Les 3 Brasseurs
+571,0,4.0,Dunn's Famous
+572,20,4.0,The Bier Markt
+573,33,3.0,Diablos
+573,62,4.0,Mammina
+574,3,5.0,La Société Montréal
+575,42,2.0,Petit Tokebi Le
+576,20,5.0,The Bier Markt
+576,63,5.0,Copper Branch
+577,12,4.0,Les 3 Brasseurs
+578,2,5.0,Stash Café
+579,17,3.0,Les 3 Brasseurs
+580,9,4.0,Cacao 70
+581,5,5.0,La Chronique
+582,20,4.0,The Bier Markt
+582,0,3.0,Dunn's Famous
+583,37,5.0,Da Bologna
+584,54,3.0,Dairy Queen
+585,12,2.0,Les 3 Brasseurs
+585,34,1.0,Bâton Rouge Steakhouse & Bar
+586,0,3.0,Dunn's Famous
+587,9,5.0,Cacao 70
+587,2,5.0,Stash Café
+588,63,2.0,Copper Branch
+589,40,3.0,Holiday Inn Montreal Centreville Downtown
+590,20,3.0,The Bier Markt
+591,32,4.0,Bâton Rouge Steakhouse & Bar
+591,20,3.0,The Bier Markt
+591,9,4.0,Cacao 70
+591,48,4.0,L'Oeufrier
+591,25,2.0,Le Warehouse
+591,25,1.0,Le Warehouse
+591,17,4.0,Les 3 Brasseurs
+591,31,5.0,Dairy Queen - Orange Julius
+592,29,4.0,Cacao 70
+593,8,3.0,Cacao 70
+594,4,2.0,Cacao 70
+595,37,4.0,Da Bologna
+596,0,5.0,Dunn's Famous
+597,36,3.0,Le Vieux Dublin Pub & Restaurant
+598,6,4.0,Toi Moi & Café
+599,36,3.0,Le Vieux Dublin Pub & Restaurant
+600,3,2.0,La Société Montréal
+600,44,4.0,Atami
+601,25,2.0,Le Warehouse
+602,29,4.0,Cacao 70
+602,12,4.0,Les 3 Brasseurs
+602,12,4.0,Les 3 Brasseurs
+602,24,5.0,Tri Express
+602,24,4.0,Tri Express
+602,17,4.0,Les 3 Brasseurs
+602,13,5.0,L’Entrepôt - Mont-Royal
+603,29,3.0,Cacao 70
+604,8,1.0,Cacao 70
+604,25,5.0,Le Warehouse
+605,2,5.0,Stash Café
+606,24,5.0,Tri Express
+607,2,5.0,Stash Café
+608,17,3.0,Les 3 Brasseurs
+609,25,3.0,Le Warehouse
+610,17,3.0,Les 3 Brasseurs
+611,20,5.0,The Bier Markt
+611,2,5.0,Stash Café
+611,22,4.0,Mon Shing
+611,24,3.0,Tri Express
+611,17,2.0,Les 3 Brasseurs
+612,60,3.0,Sushi Station
+612,3,5.0,La Société Montréal
+613,2,5.0,Stash Café
+614,20,3.0,The Bier Markt
+614,20,3.0,The Bier Markt
+614,9,4.0,Cacao 70
+614,25,3.0,Le Warehouse
+614,50,3.0,Copper Branch
+615,30,4.0,Second Cup
+616,9,5.0,Cacao 70
+617,9,3.0,Cacao 70
+618,9,3.0,Cacao 70
+618,48,5.0,L'Oeufrier
+618,27,4.0,Pigeon
+619,17,4.0,Les 3 Brasseurs
+620,12,5.0,Les 3 Brasseurs
+620,17,4.0,Les 3 Brasseurs
+621,32,3.0,Bâton Rouge Steakhouse & Bar
+622,52,5.0,Lucille's Tapas
+622,52,5.0,Lucille's Tapas
+622,4,2.0,Cacao 70
+623,17,4.0,Les 3 Brasseurs
+624,0,5.0,Dunn's Famous
+625,2,4.0,Stash Café
+626,12,4.0,Les 3 Brasseurs
+627,33,3.0,Diablos
+627,50,3.0,Copper Branch
+627,13,4.0,L’Entrepôt - Mont-Royal
+628,2,5.0,Stash Café
+629,8,5.0,Cacao 70
+630,2,4.0,Stash Café
+631,26,4.0,Les 3 Brasseurs
+632,9,5.0,Cacao 70
+633,12,1.0,Les 3 Brasseurs
+634,17,4.0,Les 3 Brasseurs
+635,26,3.0,Les 3 Brasseurs
+636,9,5.0,Cacao 70
+637,1,5.0,Copper Branch
+638,1,4.0,Copper Branch
+639,1,5.0,Copper Branch
+640,9,4.0,Cacao 70
+641,19,2.0,Chez Ma Tante
+641,9,2.0,Cacao 70
+642,25,4.0,Le Warehouse
+643,30,4.0,Second Cup
+644,13,5.0,L’Entrepôt - Mont-Royal
+645,1,4.0,Copper Branch
+646,9,2.0,Cacao 70
+647,27,5.0,Pigeon
+648,12,3.0,Les 3 Brasseurs
+649,40,1.0,Holiday Inn Montreal Centreville Downtown
+650,2,4.0,Stash Café
+651,40,5.0,Holiday Inn Montreal Centreville Downtown
+652,13,3.0,L’Entrepôt - Mont-Royal
+653,17,5.0,Les 3 Brasseurs
+654,9,4.0,Cacao 70
+655,51,4.0,Copper Branch
+656,29,1.0,Cacao 70
+657,12,5.0,Les 3 Brasseurs
+658,2,5.0,Stash Café
+659,2,5.0,Stash Café
+660,51,1.0,Copper Branch
+660,29,5.0,Cacao 70
+660,24,4.0,Tri Express
+661,26,3.0,Les 3 Brasseurs
+662,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+663,2,4.0,Stash Café
+664,3,4.0,La Société Montréal
+665,35,5.0,Wendy's
+665,12,3.0,Les 3 Brasseurs
+666,9,4.0,Cacao 70
+667,2,4.0,Stash Café
+667,25,5.0,Le Warehouse
+667,26,2.0,Les 3 Brasseurs
+668,25,2.0,Le Warehouse
+669,25,2.0,Le Warehouse
+670,27,5.0,Pigeon
+671,24,2.0,Tri Express
+672,20,4.0,The Bier Markt
+672,47,4.0,Copper Branch
+672,44,4.0,Atami
+673,0,5.0,Dunn's Famous
+674,9,4.0,Cacao 70
+674,17,4.0,Les 3 Brasseurs
+675,22,4.0,Mon Shing
+676,12,4.0,Les 3 Brasseurs
+677,20,4.0,The Bier Markt
+678,32,4.0,Bâton Rouge Steakhouse & Bar
+679,20,4.0,The Bier Markt
+680,43,4.0,Misoya - Cuisine Japonaise Et Coréenne
+680,37,4.0,Da Bologna
+681,32,4.0,Bâton Rouge Steakhouse & Bar
+682,41,1.0,Noobox
+683,2,4.0,Stash Café
+684,32,4.0,Bâton Rouge Steakhouse & Bar
+685,4,4.0,Cacao 70
+686,2,5.0,Stash Café
+687,2,3.0,Stash Café
+688,2,3.0,Stash Café
+689,25,4.0,Le Warehouse
+690,26,3.0,Les 3 Brasseurs
+691,20,3.0,The Bier Markt
+691,29,4.0,Cacao 70
+691,37,4.0,Da Bologna
+692,33,4.0,Diablos
+693,9,3.0,Cacao 70
+694,0,4.0,Dunn's Famous
+695,30,3.0,Second Cup
+696,4,3.0,Cacao 70
+697,20,5.0,The Bier Markt
+697,0,5.0,Dunn's Famous
+698,0,4.0,Dunn's Famous
+698,40,4.0,Holiday Inn Montreal Centreville Downtown
+699,20,4.0,The Bier Markt
+699,34,4.0,Bâton Rouge Steakhouse & Bar
+700,2,4.0,Stash Café
+701,32,3.0,Bâton Rouge Steakhouse & Bar
+702,34,3.0,Bâton Rouge Steakhouse & Bar
+703,17,2.0,Les 3 Brasseurs
+704,58,4.0,Casserole Kréole
+705,9,4.0,Cacao 70
+705,2,4.0,Stash Café
+705,18,3.0,Wendy's
+706,2,5.0,Stash Café
+707,8,4.0,Cacao 70
+708,64,3.0,Via Pizza
+709,2,4.0,Stash Café
+710,20,4.0,The Bier Markt
+711,20,1.0,The Bier Markt
+712,2,2.0,Stash Café
+713,9,4.0,Cacao 70
+714,12,2.0,Les 3 Brasseurs
+715,24,4.0,Tri Express
+716,2,4.0,Stash Café
+717,3,1.0,La Société Montréal
+718,17,3.0,Les 3 Brasseurs
+719,33,5.0,Diablos
+720,25,3.0,Le Warehouse
+721,20,5.0,The Bier Markt
+722,19,5.0,Chez Ma Tante
+723,2,3.0,Stash Café
+724,3,4.0,La Société Montréal
+725,39,2.0,La Concession- Boutique + Comptoir Alimentaire
+726,20,4.0,The Bier Markt
+727,13,3.0,L’Entrepôt - Mont-Royal
+728,9,5.0,Cacao 70
+729,17,3.0,Les 3 Brasseurs
+730,12,3.0,Les 3 Brasseurs
+731,8,4.0,Cacao 70
+731,26,4.0,Les 3 Brasseurs
+732,2,4.0,Stash Café
+733,8,5.0,Cacao 70
+734,17,3.0,Les 3 Brasseurs
+735,4,4.0,Cacao 70
+736,2,5.0,Stash Café
+737,24,5.0,Tri Express
+737,24,5.0,Tri Express
+738,0,5.0,Dunn's Famous
+739,12,3.0,Les 3 Brasseurs
+739,4,3.0,Cacao 70
+739,38,4.0,Restaurant Sai Gwan
+740,2,4.0,Stash Café
+740,2,4.0,Stash Café
+741,13,4.0,L’Entrepôt - Mont-Royal
+741,26,4.0,Les 3 Brasseurs
+742,30,3.0,Second Cup
+743,2,5.0,Stash Café
+744,9,4.0,Cacao 70
+745,2,3.0,Stash Café
+746,0,5.0,Dunn's Famous
+747,9,5.0,Cacao 70
+748,51,5.0,Copper Branch
+749,9,5.0,Cacao 70
+750,2,5.0,Stash Café
+751,13,4.0,L’Entrepôt - Mont-Royal
+752,2,5.0,Stash Café
+753,2,4.0,Stash Café
+754,33,1.0,Diablos
+755,15,4.0,Freshii
+756,24,5.0,Tri Express
+757,17,3.0,Les 3 Brasseurs
+758,3,4.0,La Société Montréal
+759,2,4.0,Stash Café
+760,17,2.0,Les 3 Brasseurs
+761,22,3.0,Mon Shing
+761,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+762,8,4.0,Cacao 70
+763,12,3.0,Les 3 Brasseurs
+764,0,4.0,Dunn's Famous
+765,20,4.0,The Bier Markt
+766,20,1.0,The Bier Markt
+767,40,4.0,Holiday Inn Montreal Centreville Downtown
+768,2,3.0,Stash Café
+769,0,4.0,Dunn's Famous
+770,20,3.0,The Bier Markt
+771,17,3.0,Les 3 Brasseurs
+772,8,3.0,Cacao 70
+773,1,5.0,Copper Branch
+774,38,5.0,Restaurant Sai Gwan
+775,53,4.0,Café des Beaux-Arts
+776,8,3.0,Cacao 70
+777,12,2.0,Les 3 Brasseurs
+778,40,3.0,Holiday Inn Montreal Centreville Downtown
+779,9,3.0,Cacao 70
+780,32,2.0,Bâton Rouge Steakhouse & Bar
+781,9,1.0,Cacao 70
+782,9,5.0,Cacao 70
+783,0,3.0,Dunn's Famous
+784,2,1.0,Stash Café
+785,10,5.0,Pasta Casareccia
+786,9,5.0,Cacao 70
+787,25,1.0,Le Warehouse
+788,0,4.0,Dunn's Famous
+789,2,5.0,Stash Café
+790,1,5.0,Copper Branch
+791,0,4.0,Dunn's Famous
+792,3,3.0,La Société Montréal
+793,4,4.0,Cacao 70
+794,2,5.0,Stash Café
+794,17,4.0,Les 3 Brasseurs
+795,3,3.0,La Société Montréal
+796,50,5.0,Copper Branch
+797,4,1.0,Cacao 70
+798,26,2.0,Les 3 Brasseurs
+799,14,5.0,La Bella Italiana
+799,4,4.0,Cacao 70
+800,0,3.0,Dunn's Famous
+801,51,5.0,Copper Branch
+802,9,5.0,Cacao 70
+803,36,4.0,Le Vieux Dublin Pub & Restaurant
+804,63,4.0,Copper Branch
+804,25,5.0,Le Warehouse
+805,9,5.0,Cacao 70
+805,37,4.0,Da Bologna
+805,23,3.0,Restaurant Granada
+805,17,2.0,Les 3 Brasseurs
+806,22,4.0,Mon Shing
+807,20,4.0,The Bier Markt
+807,34,3.0,Bâton Rouge Steakhouse & Bar
+808,36,3.0,Le Vieux Dublin Pub & Restaurant
+809,12,5.0,Les 3 Brasseurs
+810,57,2.0,Pizzarella Restaurant
+811,26,1.0,Les 3 Brasseurs
+812,20,2.0,The Bier Markt
+812,9,5.0,Cacao 70
+812,12,4.0,Les 3 Brasseurs
+812,12,3.0,Les 3 Brasseurs
+813,0,5.0,Dunn's Famous
+814,8,5.0,Cacao 70
+815,25,5.0,Le Warehouse
+816,25,4.0,Le Warehouse
+817,32,4.0,Bâton Rouge Steakhouse & Bar
+817,12,3.0,Les 3 Brasseurs
+818,24,5.0,Tri Express
+819,25,4.0,Le Warehouse
+819,12,4.0,Les 3 Brasseurs
+820,33,4.0,Diablos
+821,37,5.0,Da Bologna
+822,33,2.0,Diablos
+823,25,4.0,Le Warehouse
+824,20,1.0,The Bier Markt
+825,2,5.0,Stash Café
+825,38,4.0,Restaurant Sai Gwan
+825,38,2.0,Restaurant Sai Gwan
+826,8,2.0,Cacao 70
+827,22,4.0,Mon Shing
+828,22,3.0,Mon Shing
+829,9,4.0,Cacao 70
+829,25,3.0,Le Warehouse
+830,4,2.0,Cacao 70
+830,4,4.0,Cacao 70
+831,1,4.0,Copper Branch
+832,0,4.0,Dunn's Famous
+833,2,4.0,Stash Café
+834,17,3.0,Les 3 Brasseurs
+835,29,4.0,Cacao 70
+835,13,4.0,L’Entrepôt - Mont-Royal
+836,17,3.0,Les 3 Brasseurs
+837,13,5.0,L’Entrepôt - Mont-Royal
+838,20,2.0,The Bier Markt
+839,12,1.0,Les 3 Brasseurs
+840,33,4.0,Diablos
+841,32,5.0,Bâton Rouge Steakhouse & Bar
+842,0,3.0,Dunn's Famous
+843,36,4.0,Le Vieux Dublin Pub & Restaurant
+844,24,5.0,Tri Express
+845,32,2.0,Bâton Rouge Steakhouse & Bar
+846,0,4.0,Dunn's Famous
+847,13,4.0,L’Entrepôt - Mont-Royal
+848,32,4.0,Bâton Rouge Steakhouse & Bar
+848,20,3.0,The Bier Markt
+848,13,4.0,L’Entrepôt - Mont-Royal
+849,22,3.0,Mon Shing
+850,25,3.0,Le Warehouse
+850,27,4.0,Pigeon
+851,30,4.0,Second Cup
+852,52,4.0,Lucille's Tapas
+853,20,2.0,The Bier Markt
+854,33,2.0,Diablos
+855,2,5.0,Stash Café
+855,2,5.0,Stash Café
+855,26,5.0,Les 3 Brasseurs
+856,20,2.0,The Bier Markt
+857,20,4.0,The Bier Markt
+857,36,4.0,Le Vieux Dublin Pub & Restaurant
+858,26,3.0,Les 3 Brasseurs
+859,44,5.0,Atami
+860,51,4.0,Copper Branch
+860,0,3.0,Dunn's Famous
+861,6,3.0,Toi Moi & Café
+862,2,4.0,Stash Café
+863,30,1.0,Second Cup
+864,40,4.0,Holiday Inn Montreal Centreville Downtown
+865,63,4.0,Copper Branch
+866,22,2.0,Mon Shing
+866,25,3.0,Le Warehouse
+867,2,4.0,Stash Café
+868,24,3.0,Tri Express
+869,1,3.0,Copper Branch
+870,51,3.0,Copper Branch
+871,30,4.0,Second Cup
+872,4,3.0,Cacao 70
+873,20,3.0,The Bier Markt
+874,12,4.0,Les 3 Brasseurs
+875,1,5.0,Copper Branch
+876,1,5.0,Copper Branch
+877,2,4.0,Stash Café
+878,29,3.0,Cacao 70
+879,25,4.0,Le Warehouse
+880,65,3.0,Cabine M
+881,9,5.0,Cacao 70
+881,12,5.0,Les 3 Brasseurs
+882,1,4.0,Copper Branch
+883,2,5.0,Stash Café
+884,20,3.0,The Bier Markt
+884,1,4.0,Copper Branch
+885,2,4.0,Stash Café
+886,20,3.0,The Bier Markt
+886,12,4.0,Les 3 Brasseurs
+886,30,4.0,Second Cup
+886,26,3.0,Les 3 Brasseurs
+886,34,3.0,Bâton Rouge Steakhouse & Bar
+887,26,3.0,Les 3 Brasseurs
+888,25,3.0,Le Warehouse
+889,0,5.0,Dunn's Famous
+890,9,4.0,Cacao 70
+891,0,5.0,Dunn's Famous
+892,24,4.0,Tri Express
+893,6,1.0,Toi Moi & Café
+894,9,2.0,Cacao 70
+895,66,2.0,Burger King
+896,0,4.0,Dunn's Famous
+897,12,3.0,Les 3 Brasseurs
+898,25,4.0,Le Warehouse
+899,26,4.0,Les 3 Brasseurs
+900,25,5.0,Le Warehouse
+901,0,3.0,Dunn's Famous
+902,9,5.0,Cacao 70
+903,28,4.0,Dairy Queen
+904,25,3.0,Le Warehouse
+905,34,3.0,Bâton Rouge Steakhouse & Bar
+906,27,4.0,Pigeon
+907,40,3.0,Holiday Inn Montreal Centreville Downtown
+908,1,5.0,Copper Branch
+909,0,5.0,Dunn's Famous
+910,20,4.0,The Bier Markt
+911,29,4.0,Cacao 70
+911,12,4.0,Les 3 Brasseurs
+911,26,5.0,Les 3 Brasseurs
+912,2,5.0,Stash Café
+913,3,3.0,La Société Montréal
+914,29,4.0,Cacao 70
+915,20,4.0,The Bier Markt
+915,17,4.0,Les 3 Brasseurs
+915,26,3.0,Les 3 Brasseurs
+916,30,5.0,Second Cup
+917,9,4.0,Cacao 70
+918,24,5.0,Tri Express
+919,8,4.0,Cacao 70
+920,17,2.0,Les 3 Brasseurs
+921,9,3.0,Cacao 70
+922,0,3.0,Dunn's Famous
+923,12,4.0,Les 3 Brasseurs
+924,36,2.0,Le Vieux Dublin Pub & Restaurant
+924,13,4.0,L’Entrepôt - Mont-Royal
+925,12,4.0,Les 3 Brasseurs
+926,20,5.0,The Bier Markt
+927,26,2.0,Les 3 Brasseurs
+928,1,5.0,Copper Branch
+929,12,1.0,Les 3 Brasseurs
+930,0,4.0,Dunn's Famous
+931,22,1.0,Mon Shing
+931,25,2.0,Le Warehouse
+931,12,5.0,Les 3 Brasseurs
+932,4,1.0,Cacao 70
+933,34,2.0,Bâton Rouge Steakhouse & Bar
+934,12,4.0,Les 3 Brasseurs
+935,20,2.0,The Bier Markt
+936,0,2.0,Dunn's Famous
+937,16,1.0,Restaurant Bitoque
+938,48,1.0,L'Oeufrier
+938,48,1.0,L'Oeufrier
+939,12,3.0,Les 3 Brasseurs
+940,20,4.0,The Bier Markt
+941,9,5.0,Cacao 70
+941,9,4.0,Cacao 70
+941,9,4.0,Cacao 70
+941,12,3.0,Les 3 Brasseurs
+941,30,4.0,Second Cup
+942,22,3.0,Mon Shing
+943,0,4.0,Dunn's Famous
+944,8,4.0,Cacao 70
+944,0,4.0,Dunn's Famous
+944,38,5.0,Restaurant Sai Gwan
+945,9,3.0,Cacao 70
+946,24,5.0,Tri Express
+947,1,4.0,Copper Branch
+948,9,4.0,Cacao 70
+949,5,5.0,La Chronique
+950,8,5.0,Cacao 70
+951,26,5.0,Les 3 Brasseurs
+952,17,4.0,Les 3 Brasseurs
+953,46,3.0,Restaurant La Flamberge Montréal Nord
+954,17,3.0,Les 3 Brasseurs
+955,2,4.0,Stash Café
+956,20,4.0,The Bier Markt
+957,0,4.0,Dunn's Famous
+958,12,3.0,Les 3 Brasseurs
+959,9,1.0,Cacao 70
+960,9,4.0,Cacao 70
+960,0,2.0,Dunn's Famous
+961,9,4.0,Cacao 70
+962,24,5.0,Tri Express
+963,0,5.0,Dunn's Famous
+964,2,4.0,Stash Café
+965,12,2.0,Les 3 Brasseurs
+966,24,5.0,Tri Express
+967,9,5.0,Cacao 70
+968,2,4.0,Stash Café
+969,0,4.0,Dunn's Famous
+970,0,4.0,Dunn's Famous
+971,4,3.0,Cacao 70
+972,11,4.0,Scéna
+973,12,3.0,Les 3 Brasseurs
+974,12,4.0,Les 3 Brasseurs
+975,13,5.0,L’Entrepôt - Mont-Royal
+976,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+977,51,4.0,Copper Branch
+978,5,4.0,La Chronique
+979,66,1.0,Burger King
+980,8,4.0,Cacao 70
+981,0,5.0,Dunn's Famous
+982,20,4.0,The Bier Markt
+983,12,3.0,Les 3 Brasseurs
+984,12,3.0,Les 3 Brasseurs
+985,0,3.0,Dunn's Famous
+986,0,3.0,Dunn's Famous
+987,29,1.0,Cacao 70
+988,2,4.0,Stash Café
+989,3,4.0,La Société Montréal
+990,25,4.0,Le Warehouse
+990,4,5.0,Cacao 70
+991,2,5.0,Stash Café
+992,20,4.0,The Bier Markt
+993,25,5.0,Le Warehouse
+994,63,3.0,Copper Branch
+994,34,3.0,Bâton Rouge Steakhouse & Bar
+995,12,3.0,Les 3 Brasseurs
+996,9,4.0,Cacao 70
+997,1,5.0,Copper Branch
+998,0,4.0,Dunn's Famous
+999,9,5.0,Cacao 70
+999,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+1000,2,5.0,Stash Café
+1001,15,5.0,Freshii
+1001,25,5.0,Le Warehouse
+1002,4,5.0,Cacao 70
+1003,1,4.0,Copper Branch
+1003,1,4.0,Copper Branch
+1003,25,2.0,Le Warehouse
+1004,4,5.0,Cacao 70
+1005,6,3.0,Toi Moi & Café
+1005,6,3.0,Toi Moi & Café
+1006,5,5.0,La Chronique
+1007,19,3.0,Chez Ma Tante
+1007,4,5.0,Cacao 70
+1008,63,3.0,Copper Branch
+1008,17,5.0,Les 3 Brasseurs
+1009,2,4.0,Stash Café
+1010,63,4.0,Copper Branch
+1011,52,4.0,Lucille's Tapas
+1011,13,5.0,L’Entrepôt - Mont-Royal
+1012,51,4.0,Copper Branch
+1012,51,4.0,Copper Branch
+1012,51,3.0,Copper Branch
+1012,51,4.0,Copper Branch
+1012,63,4.0,Copper Branch
+1012,1,3.0,Copper Branch
+1012,24,5.0,Tri Express
+1013,47,5.0,Copper Branch
+1014,12,4.0,Les 3 Brasseurs
+1015,30,5.0,Second Cup
+1016,3,4.0,La Société Montréal
+1017,19,5.0,Chez Ma Tante
+1018,12,1.0,Les 3 Brasseurs
+1019,4,5.0,Cacao 70
+1020,2,4.0,Stash Café
+1021,3,4.0,La Société Montréal
+1022,13,2.0,L’Entrepôt - Mont-Royal
+1023,51,5.0,Copper Branch
+1024,2,4.0,Stash Café
+1025,0,4.0,Dunn's Famous
+1026,33,3.0,Diablos
+1026,13,4.0,L’Entrepôt - Mont-Royal
+1027,64,4.0,Via Pizza
+1028,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+1029,9,4.0,Cacao 70
+1030,25,3.0,Le Warehouse
+1031,13,4.0,L’Entrepôt - Mont-Royal
+1032,2,3.0,Stash Café
+1033,38,4.0,Restaurant Sai Gwan
+1034,0,2.0,Dunn's Famous
+1035,2,5.0,Stash Café
+1036,2,4.0,Stash Café
+1037,2,5.0,Stash Café
+1038,3,5.0,La Société Montréal
+1039,3,4.0,La Société Montréal
+1040,2,5.0,Stash Café
+1041,0,5.0,Dunn's Famous
+1042,17,2.0,Les 3 Brasseurs
+1043,12,5.0,Les 3 Brasseurs
+1044,12,2.0,Les 3 Brasseurs
+1045,4,3.0,Cacao 70
+1046,0,4.0,Dunn's Famous
+1047,17,2.0,Les 3 Brasseurs
+1048,32,3.0,Bâton Rouge Steakhouse & Bar
+1049,30,4.0,Second Cup
+1050,26,5.0,Les 3 Brasseurs
+1051,2,4.0,Stash Café
+1052,4,4.0,Cacao 70
+1053,17,4.0,Les 3 Brasseurs
+1054,48,4.0,L'Oeufrier
+1055,9,2.0,Cacao 70
+1056,9,3.0,Cacao 70
+1056,12,3.0,Les 3 Brasseurs
+1057,9,4.0,Cacao 70
+1058,20,1.0,The Bier Markt
+1059,2,5.0,Stash Café
+1059,16,4.0,Restaurant Bitoque
+1060,20,4.0,The Bier Markt
+1060,3,5.0,La Société Montréal
+1061,22,2.0,Mon Shing
+1062,0,4.0,Dunn's Famous
+1063,31,1.0,Dairy Queen - Orange Julius
+1064,20,3.0,The Bier Markt
+1065,45,4.0,Yeh
+1066,45,3.0,Yeh
+1067,45,5.0,Yeh
+1068,12,4.0,Les 3 Brasseurs
+1068,17,4.0,Les 3 Brasseurs
+1069,6,4.0,Toi Moi & Café
+1070,24,4.0,Tri Express
+1071,8,5.0,Cacao 70
+1072,3,2.0,La Société Montréal
+1073,2,5.0,Stash Café
+1074,17,1.0,Les 3 Brasseurs
+1075,39,3.0,La Concession- Boutique + Comptoir Alimentaire
+1076,12,3.0,Les 3 Brasseurs
+1077,19,4.0,Chez Ma Tante
+1078,20,3.0,The Bier Markt
+1079,1,4.0,Copper Branch
+1080,1,4.0,Copper Branch
+1081,1,4.0,Copper Branch
+1082,63,3.0,Copper Branch
+1083,51,4.0,Copper Branch
+1084,10,5.0,Pasta Casareccia
+1085,20,4.0,The Bier Markt
+1086,1,1.0,Copper Branch
+1087,63,4.0,Copper Branch
+1088,38,5.0,Restaurant Sai Gwan
+1089,1,5.0,Copper Branch
+1090,9,5.0,Cacao 70
+1091,2,5.0,Stash Café
+1092,20,5.0,The Bier Markt
+1092,6,5.0,Toi Moi & Café
+1093,27,3.0,Pigeon
+1094,2,5.0,Stash Café
+1095,0,4.0,Dunn's Famous
+1096,9,4.0,Cacao 70
+1097,32,4.0,Bâton Rouge Steakhouse & Bar
+1097,25,3.0,Le Warehouse
+1098,1,4.0,Copper Branch
+1099,33,2.0,Diablos
+1100,36,3.0,Le Vieux Dublin Pub & Restaurant
+1101,24,5.0,Tri Express
+1102,31,3.0,Dairy Queen - Orange Julius
+1102,13,4.0,L’Entrepôt - Mont-Royal
+1103,6,4.0,Toi Moi & Café
+1104,44,1.0,Atami
+1105,54,1.0,Dairy Queen
+1106,63,3.0,Copper Branch
+1107,13,3.0,L’Entrepôt - Mont-Royal
+1108,12,3.0,Les 3 Brasseurs
+1109,6,3.0,Toi Moi & Café
+1110,0,2.0,Dunn's Famous
+1111,51,3.0,Copper Branch
+1112,32,4.0,Bâton Rouge Steakhouse & Bar
+1112,20,3.0,The Bier Markt
+1112,12,4.0,Les 3 Brasseurs
+1112,0,3.0,Dunn's Famous
+1113,12,4.0,Les 3 Brasseurs
+1114,12,4.0,Les 3 Brasseurs
+1115,2,4.0,Stash Café
+1116,20,5.0,The Bier Markt
+1117,12,4.0,Les 3 Brasseurs
+1117,6,3.0,Toi Moi & Café
+1118,0,4.0,Dunn's Famous
+1119,0,3.0,Dunn's Famous
+1120,32,3.0,Bâton Rouge Steakhouse & Bar
+1121,2,4.0,Stash Café
+1121,2,3.0,Stash Café
+1121,13,4.0,L’Entrepôt - Mont-Royal
+1121,13,4.0,L’Entrepôt - Mont-Royal
+1122,50,4.0,Copper Branch
+1123,17,3.0,Les 3 Brasseurs
+1124,30,3.0,Second Cup
+1125,0,2.0,Dunn's Famous
+1126,4,4.0,Cacao 70
+1127,12,2.0,Les 3 Brasseurs
+1128,2,4.0,Stash Café
+1129,25,3.0,Le Warehouse
+1130,36,3.0,Le Vieux Dublin Pub & Restaurant
+1131,26,4.0,Les 3 Brasseurs
+1132,26,3.0,Les 3 Brasseurs
+1133,0,4.0,Dunn's Famous
+1134,19,5.0,Chez Ma Tante
+1134,21,4.0,Casa Grecque Pie Ix
+1134,12,3.0,Les 3 Brasseurs
+1134,26,4.0,Les 3 Brasseurs
+1135,29,4.0,Cacao 70
+1136,26,2.0,Les 3 Brasseurs
+1137,8,5.0,Cacao 70
+1138,38,4.0,Restaurant Sai Gwan
+1139,30,3.0,Second Cup
+1140,8,5.0,Cacao 70
+1140,13,3.0,L’Entrepôt - Mont-Royal
+1141,20,4.0,The Bier Markt
+1142,24,2.0,Tri Express
+1143,17,2.0,Les 3 Brasseurs
+1144,2,5.0,Stash Café
+1145,12,4.0,Les 3 Brasseurs
+1146,1,4.0,Copper Branch
+1147,20,5.0,The Bier Markt
+1148,14,5.0,La Bella Italiana
+1148,14,5.0,La Bella Italiana
+1149,9,5.0,Cacao 70
+1149,13,2.0,L’Entrepôt - Mont-Royal
+1150,38,4.0,Restaurant Sai Gwan
+1151,20,4.0,The Bier Markt
+1152,12,4.0,Les 3 Brasseurs
+1153,44,4.0,Atami
+1154,5,5.0,La Chronique
+1155,6,4.0,Toi Moi & Café
+1156,2,5.0,Stash Café
+1157,11,4.0,Scéna
+1158,32,5.0,Bâton Rouge Steakhouse & Bar
+1159,0,2.0,Dunn's Famous
+1160,12,3.0,Les 3 Brasseurs
+1161,13,3.0,L’Entrepôt - Mont-Royal
+1162,9,4.0,Cacao 70
+1163,12,4.0,Les 3 Brasseurs
+1164,44,4.0,Atami
+1165,9,5.0,Cacao 70
+1165,0,4.0,Dunn's Famous
+1166,2,5.0,Stash Café
+1167,50,4.0,Copper Branch
+1168,1,5.0,Copper Branch
+1169,25,5.0,Le Warehouse
+1170,1,4.0,Copper Branch
+1171,13,4.0,L’Entrepôt - Mont-Royal
+1172,47,5.0,Copper Branch
+1173,19,5.0,Chez Ma Tante
+1174,63,5.0,Copper Branch
+1174,38,3.0,Restaurant Sai Gwan
+1175,20,1.0,The Bier Markt
+1176,9,2.0,Cacao 70
+1177,36,4.0,Le Vieux Dublin Pub & Restaurant
+1178,48,5.0,L'Oeufrier
+1179,22,1.0,Mon Shing
+1180,12,4.0,Les 3 Brasseurs
+1181,20,5.0,The Bier Markt
+1182,32,3.0,Bâton Rouge Steakhouse & Bar
+1183,2,4.0,Stash Café
+1184,33,4.0,Diablos
+1185,9,4.0,Cacao 70
+1186,0,5.0,Dunn's Famous
+1187,56,2.0,Taj Mahal de l'Ouest
+1188,20,1.0,The Bier Markt
+1189,27,2.0,Pigeon
+1190,5,5.0,La Chronique
+1190,24,4.0,Tri Express
+1191,13,3.0,L’Entrepôt - Mont-Royal
+1192,25,5.0,Le Warehouse
+1192,3,4.0,La Société Montréal
+1193,25,5.0,Le Warehouse
+1194,10,3.0,Pasta Casareccia
+1195,5,4.0,La Chronique
+1196,12,4.0,Les 3 Brasseurs
+1197,8,4.0,Cacao 70
+1198,8,5.0,Cacao 70
+1199,8,1.0,Cacao 70
+1200,8,5.0,Cacao 70
+1201,8,5.0,Cacao 70
+1201,32,5.0,Bâton Rouge Steakhouse & Bar
+1202,8,5.0,Cacao 70
+1203,8,4.0,Cacao 70
+1204,8,1.0,Cacao 70
+1205,8,4.0,Cacao 70
+1206,8,4.0,Cacao 70
+1207,8,5.0,Cacao 70
+1208,8,4.0,Cacao 70
+1209,8,4.0,Cacao 70
+1210,8,5.0,Cacao 70
+1211,8,1.0,Cacao 70
+1212,8,5.0,Cacao 70
+1213,8,5.0,Cacao 70
+1214,8,4.0,Cacao 70
+1215,8,5.0,Cacao 70
+1216,8,2.0,Cacao 70
+1217,8,5.0,Cacao 70
+1218,8,2.0,Cacao 70
+1219,8,5.0,Cacao 70
+1219,33,4.0,Diablos
+1220,8,5.0,Cacao 70
+1221,8,4.0,Cacao 70
+1222,8,4.0,Cacao 70
+1223,8,1.0,Cacao 70
+1223,9,5.0,Cacao 70
+1224,8,3.0,Cacao 70
+1225,8,5.0,Cacao 70
+1226,8,3.0,Cacao 70
+1227,8,5.0,Cacao 70
+1228,8,5.0,Cacao 70
+1229,8,1.0,Cacao 70
+1230,8,5.0,Cacao 70
+1231,8,3.0,Cacao 70
+1232,8,5.0,Cacao 70
+1233,8,1.0,Cacao 70
+1234,8,2.0,Cacao 70
+1235,8,1.0,Cacao 70
+1236,8,5.0,Cacao 70
+1237,22,2.0,Mon Shing
+1238,50,3.0,Copper Branch
+1239,2,4.0,Stash Café
+1240,9,5.0,Cacao 70
+1241,12,3.0,Les 3 Brasseurs
+1242,26,4.0,Les 3 Brasseurs
+1243,2,5.0,Stash Café
+1244,33,4.0,Diablos
+1244,13,3.0,L’Entrepôt - Mont-Royal
+1245,9,5.0,Cacao 70
+1245,9,5.0,Cacao 70
+1246,0,5.0,Dunn's Famous
+1247,25,4.0,Le Warehouse
+1247,67,1.0,Copper Branch
+1248,12,3.0,Les 3 Brasseurs
+1249,1,4.0,Copper Branch
+1250,50,3.0,Copper Branch
+1251,12,3.0,Les 3 Brasseurs
+1251,4,4.0,Cacao 70
+1252,2,5.0,Stash Café
+1253,19,4.0,Chez Ma Tante
+1254,17,3.0,Les 3 Brasseurs
+1255,2,5.0,Stash Café
+1255,0,5.0,Dunn's Famous
+1256,12,2.0,Les 3 Brasseurs
+1257,3,5.0,La Société Montréal
+1258,5,4.0,La Chronique
+1259,0,4.0,Dunn's Famous
+1260,32,1.0,Bâton Rouge Steakhouse & Bar
+1261,17,1.0,Les 3 Brasseurs
+1262,2,5.0,Stash Café
+1263,0,5.0,Dunn's Famous
+1264,63,4.0,Copper Branch
+1265,58,4.0,Casserole Kréole
+1266,25,3.0,Le Warehouse
+1267,12,2.0,Les 3 Brasseurs
+1268,57,4.0,Pizzarella Restaurant
+1269,32,4.0,Bâton Rouge Steakhouse & Bar
+1270,65,5.0,Cabine M
+1271,59,4.0,Pasteizza
+1272,2,5.0,Stash Café
+1273,4,4.0,Cacao 70
+1274,0,3.0,Dunn's Famous
+1275,2,3.0,Stash Café
+1276,24,4.0,Tri Express
+1277,37,5.0,Da Bologna
+1278,1,5.0,Copper Branch
+1279,12,4.0,Les 3 Brasseurs
+1280,19,5.0,Chez Ma Tante
+1281,24,5.0,Tri Express
+1282,0,3.0,Dunn's Famous
+1283,25,4.0,Le Warehouse
+1283,3,4.0,La Société Montréal
+1284,38,5.0,Restaurant Sai Gwan
+1285,1,3.0,Copper Branch
+1286,2,4.0,Stash Café
+1287,17,3.0,Les 3 Brasseurs
+1288,17,5.0,Les 3 Brasseurs
+1289,20,2.0,The Bier Markt
+1289,12,4.0,Les 3 Brasseurs
+1290,6,1.0,Toi Moi & Café
+1291,12,3.0,Les 3 Brasseurs
+1292,12,3.0,Les 3 Brasseurs
+1293,27,4.0,Pigeon
+1294,32,4.0,Bâton Rouge Steakhouse & Bar
+1295,31,5.0,Dairy Queen - Orange Julius
+1296,20,5.0,The Bier Markt
+1296,20,5.0,The Bier Markt
+1296,36,4.0,Le Vieux Dublin Pub & Restaurant
+1297,29,2.0,Cacao 70
+1297,24,4.0,Tri Express
+1298,4,1.0,Cacao 70
+1299,20,5.0,The Bier Markt
+1299,12,5.0,Les 3 Brasseurs
+1300,59,4.0,Pasteizza
+1301,29,3.0,Cacao 70
+1302,12,2.0,Les 3 Brasseurs
+1303,32,2.0,Bâton Rouge Steakhouse & Bar
+1304,32,3.0,Bâton Rouge Steakhouse & Bar
+1305,32,2.0,Bâton Rouge Steakhouse & Bar
+1305,32,1.0,Bâton Rouge Steakhouse & Bar
+1306,32,3.0,Bâton Rouge Steakhouse & Bar
+1307,32,5.0,Bâton Rouge Steakhouse & Bar
+1308,32,5.0,Bâton Rouge Steakhouse & Bar
+1309,32,4.0,Bâton Rouge Steakhouse & Bar
+1310,32,4.0,Bâton Rouge Steakhouse & Bar
+1311,32,1.0,Bâton Rouge Steakhouse & Bar
+1312,32,1.0,Bâton Rouge Steakhouse & Bar
+1313,32,5.0,Bâton Rouge Steakhouse & Bar
+1314,32,1.0,Bâton Rouge Steakhouse & Bar
+1314,15,5.0,Freshii
+1315,32,4.0,Bâton Rouge Steakhouse & Bar
+1316,32,5.0,Bâton Rouge Steakhouse & Bar
+1317,32,5.0,Bâton Rouge Steakhouse & Bar
+1318,32,3.0,Bâton Rouge Steakhouse & Bar
+1319,32,3.0,Bâton Rouge Steakhouse & Bar
+1320,32,1.0,Bâton Rouge Steakhouse & Bar
+1321,32,4.0,Bâton Rouge Steakhouse & Bar
+1322,32,3.0,Bâton Rouge Steakhouse & Bar
+1323,32,5.0,Bâton Rouge Steakhouse & Bar
+1324,32,1.0,Bâton Rouge Steakhouse & Bar
+1325,32,4.0,Bâton Rouge Steakhouse & Bar
+1326,9,5.0,Cacao 70
+1327,17,3.0,Les 3 Brasseurs
+1328,12,3.0,Les 3 Brasseurs
+1329,0,3.0,Dunn's Famous
+1330,2,5.0,Stash Café
+1331,24,5.0,Tri Express
+1331,13,5.0,L’Entrepôt - Mont-Royal
+1332,25,1.0,Le Warehouse
+1333,17,1.0,Les 3 Brasseurs
+1334,24,2.0,Tri Express
+1334,38,4.0,Restaurant Sai Gwan
+1335,0,4.0,Dunn's Famous
+1336,12,2.0,Les 3 Brasseurs
+1337,36,3.0,Le Vieux Dublin Pub & Restaurant
+1338,4,4.0,Cacao 70
+1339,4,4.0,Cacao 70
+1340,50,3.0,Copper Branch
+1340,12,3.0,Les 3 Brasseurs
+1341,1,1.0,Copper Branch
+1342,24,4.0,Tri Express
+1343,4,2.0,Cacao 70
+1344,15,2.0,Freshii
+1345,2,5.0,Stash Café
+1346,12,3.0,Les 3 Brasseurs
+1347,0,4.0,Dunn's Famous
+1348,10,5.0,Pasta Casareccia
+1349,27,5.0,Pigeon
+1350,30,4.0,Second Cup
+1351,20,1.0,The Bier Markt
+1352,31,1.0,Dairy Queen - Orange Julius
+1353,24,4.0,Tri Express
+1354,0,5.0,Dunn's Famous
+1355,61,2.0,Vincent Sous Marin
+1356,3,4.0,La Société Montréal
+1357,7,1.0,Saint-Laurent Warehouse
+1358,13,4.0,L’Entrepôt - Mont-Royal
+1359,38,4.0,Restaurant Sai Gwan
+1359,59,2.0,Pasteizza
+1360,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+1361,9,4.0,Cacao 70
+1362,29,5.0,Cacao 70
+1363,13,2.0,L’Entrepôt - Mont-Royal
+1364,0,4.0,Dunn's Famous
+1365,20,3.0,The Bier Markt
+1366,33,4.0,Diablos
+1367,12,4.0,Les 3 Brasseurs
+1368,2,1.0,Stash Café
+1369,2,4.0,Stash Café
+1369,12,3.0,Les 3 Brasseurs
+1369,44,4.0,Atami
+1370,51,5.0,Copper Branch
+1371,7,4.0,Saint-Laurent Warehouse
+1371,13,4.0,L’Entrepôt - Mont-Royal
+1372,26,4.0,Les 3 Brasseurs
+1372,44,5.0,Atami
+1373,17,4.0,Les 3 Brasseurs
+1374,20,5.0,The Bier Markt
+1375,9,4.0,Cacao 70
+1376,9,5.0,Cacao 70
+1377,29,5.0,Cacao 70
+1378,17,5.0,Les 3 Brasseurs
+1379,50,1.0,Copper Branch
+1380,1,1.0,Copper Branch
+1381,13,4.0,L’Entrepôt - Mont-Royal
+1382,0,4.0,Dunn's Famous
+1383,33,3.0,Diablos
+1383,1,2.0,Copper Branch
+1384,30,4.0,Second Cup
+1385,20,4.0,The Bier Markt
+1386,36,5.0,Le Vieux Dublin Pub & Restaurant
+1387,20,2.0,The Bier Markt
+1388,12,3.0,Les 3 Brasseurs
+1389,9,5.0,Cacao 70
+1390,29,3.0,Cacao 70
+1390,24,3.0,Tri Express
+1391,17,4.0,Les 3 Brasseurs
+1392,26,5.0,Les 3 Brasseurs
+1393,17,1.0,Les 3 Brasseurs
+1394,0,4.0,Dunn's Famous
+1395,0,4.0,Dunn's Famous
+1396,30,1.0,Second Cup
+1397,5,5.0,La Chronique
+1398,0,4.0,Dunn's Famous
+1399,12,3.0,Les 3 Brasseurs
+1400,20,4.0,The Bier Markt
+1400,1,1.0,Copper Branch
+1401,12,4.0,Les 3 Brasseurs
+1402,12,5.0,Les 3 Brasseurs
+1402,26,5.0,Les 3 Brasseurs
+1403,33,1.0,Diablos
+1404,0,3.0,Dunn's Famous
+1405,2,5.0,Stash Café
+1406,63,4.0,Copper Branch
+1407,0,4.0,Dunn's Famous
+1408,68,2.0,Terra Verde
+1409,9,5.0,Cacao 70
+1409,1,5.0,Copper Branch
+1410,20,4.0,The Bier Markt
+1411,9,1.0,Cacao 70
+1412,16,3.0,Restaurant Bitoque
+1413,20,4.0,The Bier Markt
+1414,9,5.0,Cacao 70
+1415,12,1.0,Les 3 Brasseurs
+1416,18,5.0,Wendy's
+1417,0,5.0,Dunn's Famous
+1418,12,3.0,Les 3 Brasseurs
+1419,2,5.0,Stash Café
+1420,20,4.0,The Bier Markt
+1420,2,5.0,Stash Café
+1421,0,4.0,Dunn's Famous
+1422,9,2.0,Cacao 70
+1423,29,4.0,Cacao 70
+1424,12,4.0,Les 3 Brasseurs
+1425,12,3.0,Les 3 Brasseurs
+1426,20,3.0,The Bier Markt
+1427,30,4.0,Second Cup
+1428,20,1.0,The Bier Markt
+1429,34,4.0,Bâton Rouge Steakhouse & Bar
+1430,20,4.0,The Bier Markt
+1430,12,3.0,Les 3 Brasseurs
+1431,25,4.0,Le Warehouse
+1431,25,4.0,Le Warehouse
+1432,17,4.0,Les 3 Brasseurs
+1432,13,4.0,L’Entrepôt - Mont-Royal
+1433,2,5.0,Stash Café
+1434,20,2.0,The Bier Markt
+1435,6,3.0,Toi Moi & Café
+1436,0,5.0,Dunn's Famous
+1437,33,4.0,Diablos
+1438,9,5.0,Cacao 70
+1439,12,3.0,Les 3 Brasseurs
+1440,2,4.0,Stash Café
+1441,0,5.0,Dunn's Famous
+1442,24,2.0,Tri Express
+1443,9,5.0,Cacao 70
+1444,19,4.0,Chez Ma Tante
+1445,24,4.0,Tri Express
+1446,2,5.0,Stash Café
+1447,20,4.0,The Bier Markt
+1448,52,3.0,Lucille's Tapas
+1449,52,4.0,Lucille's Tapas
+1450,52,4.0,Lucille's Tapas
+1451,52,4.0,Lucille's Tapas
+1452,52,4.0,Lucille's Tapas
+1453,20,4.0,The Bier Markt
+1454,25,5.0,Le Warehouse
+1455,12,2.0,Les 3 Brasseurs
+1456,19,5.0,Chez Ma Tante
+1457,19,3.0,Chez Ma Tante
+1458,19,4.0,Chez Ma Tante
+1459,19,3.0,Chez Ma Tante
+1460,19,5.0,Chez Ma Tante
+1461,19,5.0,Chez Ma Tante
+1462,19,5.0,Chez Ma Tante
+1463,19,5.0,Chez Ma Tante
+1464,19,5.0,Chez Ma Tante
+1465,19,2.0,Chez Ma Tante
+1466,19,5.0,Chez Ma Tante
+1467,19,5.0,Chez Ma Tante
+1468,19,1.0,Chez Ma Tante
+1469,2,4.0,Stash Café
+1470,20,3.0,The Bier Markt
+1470,4,5.0,Cacao 70
+1471,2,1.0,Stash Café
+1472,0,4.0,Dunn's Famous
+1473,12,3.0,Les 3 Brasseurs
+1474,10,2.0,Pasta Casareccia
+1475,12,4.0,Les 3 Brasseurs
+1476,25,5.0,Le Warehouse
+1477,1,1.0,Copper Branch
+1478,12,1.0,Les 3 Brasseurs
+1479,34,3.0,Bâton Rouge Steakhouse & Bar
+1480,30,4.0,Second Cup
+1481,9,1.0,Cacao 70
+1482,13,5.0,L’Entrepôt - Mont-Royal
+1483,18,4.0,Wendy's
+1483,12,3.0,Les 3 Brasseurs
+1484,0,5.0,Dunn's Famous
+1485,20,1.0,The Bier Markt
+1486,57,4.0,Pizzarella Restaurant
+1487,33,1.0,Diablos
+1488,36,4.0,Le Vieux Dublin Pub & Restaurant
+1489,13,4.0,L’Entrepôt - Mont-Royal
+1490,9,2.0,Cacao 70
+1490,4,4.0,Cacao 70
+1491,44,4.0,Atami
+1492,13,5.0,L’Entrepôt - Mont-Royal
+1493,27,2.0,Pigeon
+1494,25,1.0,Le Warehouse
+1495,50,3.0,Copper Branch
+1495,13,5.0,L’Entrepôt - Mont-Royal
+1496,31,2.0,Dairy Queen - Orange Julius
+1497,12,1.0,Les 3 Brasseurs
+1498,34,1.0,Bâton Rouge Steakhouse & Bar
+1499,44,5.0,Atami
+1500,2,5.0,Stash Café
+1501,17,4.0,Les 3 Brasseurs
+1502,6,1.0,Toi Moi & Café
+1503,48,1.0,L'Oeufrier
+1503,42,3.0,Petit Tokebi Le
+1504,25,4.0,Le Warehouse
+1505,29,5.0,Cacao 70
+1506,9,3.0,Cacao 70
+1507,16,2.0,Restaurant Bitoque
+1508,3,4.0,La Société Montréal
+1509,26,1.0,Les 3 Brasseurs
+1510,12,5.0,Les 3 Brasseurs
+1511,53,4.0,Café des Beaux-Arts
+1512,53,4.0,Café des Beaux-Arts
+1513,53,1.0,Café des Beaux-Arts
+1514,63,3.0,Copper Branch
+1515,2,4.0,Stash Café
+1516,9,2.0,Cacao 70
+1517,68,4.0,Terra Verde
+1518,68,5.0,Terra Verde
+1519,68,5.0,Terra Verde
+1520,68,5.0,Terra Verde
+1521,68,5.0,Terra Verde
+1522,68,5.0,Terra Verde
+1523,0,4.0,Dunn's Famous
+1524,24,4.0,Tri Express
+1525,0,5.0,Dunn's Famous
+1526,25,5.0,Le Warehouse
+1527,12,4.0,Les 3 Brasseurs
+1527,12,2.0,Les 3 Brasseurs
+1528,2,4.0,Stash Café
+1529,0,4.0,Dunn's Famous
+1530,40,1.0,Holiday Inn Montreal Centreville Downtown
+1531,9,2.0,Cacao 70
+1532,10,5.0,Pasta Casareccia
+1533,16,3.0,Restaurant Bitoque
+1534,12,5.0,Les 3 Brasseurs
+1535,14,5.0,La Bella Italiana
+1536,24,3.0,Tri Express
+1537,12,4.0,Les 3 Brasseurs
+1538,17,4.0,Les 3 Brasseurs
+1539,12,3.0,Les 3 Brasseurs
+1540,51,3.0,Copper Branch
+1541,14,5.0,La Bella Italiana
+1541,37,5.0,Da Bologna
+1542,22,4.0,Mon Shing
+1543,60,5.0,Sushi Station
+1544,12,5.0,Les 3 Brasseurs
+1545,0,3.0,Dunn's Famous
+1546,13,5.0,L’Entrepôt - Mont-Royal
+1546,13,5.0,L’Entrepôt - Mont-Royal
+1547,30,4.0,Second Cup
+1548,3,4.0,La Société Montréal
+1549,1,4.0,Copper Branch
+1550,24,1.0,Tri Express
+1551,12,3.0,Les 3 Brasseurs
+1552,36,3.0,Le Vieux Dublin Pub & Restaurant
+1552,12,5.0,Les 3 Brasseurs
+1553,12,3.0,Les 3 Brasseurs
+1554,17,3.0,Les 3 Brasseurs
+1555,12,2.0,Les 3 Brasseurs
+1556,0,3.0,Dunn's Famous
+1557,9,4.0,Cacao 70
+1558,5,5.0,La Chronique
+1559,0,4.0,Dunn's Famous
+1560,2,5.0,Stash Café
+1561,29,5.0,Cacao 70
+1562,2,4.0,Stash Café
+1563,5,3.0,La Chronique
+1564,12,3.0,Les 3 Brasseurs
+1565,9,4.0,Cacao 70
+1566,17,3.0,Les 3 Brasseurs
+1567,24,3.0,Tri Express
+1568,20,3.0,The Bier Markt
+1568,20,4.0,The Bier Markt
+1569,0,4.0,Dunn's Famous
+1570,2,5.0,Stash Café
+1571,17,4.0,Les 3 Brasseurs
+1572,12,3.0,Les 3 Brasseurs
+1573,3,5.0,La Société Montréal
+1574,4,4.0,Cacao 70
+1575,12,3.0,Les 3 Brasseurs
+1576,0,4.0,Dunn's Famous
+1577,2,4.0,Stash Café
+1578,20,4.0,The Bier Markt
+1579,3,3.0,La Société Montréal
+1580,25,1.0,Le Warehouse
+1581,17,3.0,Les 3 Brasseurs
+1582,29,4.0,Cacao 70
+1583,22,5.0,Mon Shing
+1584,9,5.0,Cacao 70
+1585,20,4.0,The Bier Markt
+1585,34,3.0,Bâton Rouge Steakhouse & Bar
+1586,41,1.0,Noobox
+1587,9,5.0,Cacao 70
+1588,13,4.0,L’Entrepôt - Mont-Royal
+1589,1,4.0,Copper Branch
+1590,10,5.0,Pasta Casareccia
+1591,26,3.0,Les 3 Brasseurs
+1592,0,4.0,Dunn's Famous
+1593,17,3.0,Les 3 Brasseurs
+1594,36,3.0,Le Vieux Dublin Pub & Restaurant
+1595,25,3.0,Le Warehouse
+1596,9,5.0,Cacao 70
+1597,12,4.0,Les 3 Brasseurs
+1598,24,5.0,Tri Express
+1599,24,4.0,Tri Express
+1600,24,3.0,Tri Express
+1601,0,5.0,Dunn's Famous
+1602,27,5.0,Pigeon
+1603,2,4.0,Stash Café
+1604,14,4.0,La Bella Italiana
+1605,20,5.0,The Bier Markt
+1606,20,5.0,The Bier Markt
+1607,20,5.0,The Bier Markt
+1607,17,2.0,Les 3 Brasseurs
+1608,67,5.0,Copper Branch
+1609,17,5.0,Les 3 Brasseurs
+1610,13,5.0,L’Entrepôt - Mont-Royal
+1611,2,4.0,Stash Café
+1612,17,5.0,Les 3 Brasseurs
+1613,9,4.0,Cacao 70
+1614,2,5.0,Stash Café
+1615,33,5.0,Diablos
+1616,13,3.0,L’Entrepôt - Mont-Royal
+1617,17,5.0,Les 3 Brasseurs
+1618,0,5.0,Dunn's Famous
+1619,2,4.0,Stash Café
+1620,20,3.0,The Bier Markt
+1620,9,4.0,Cacao 70
+1620,25,5.0,Le Warehouse
+1621,3,3.0,La Société Montréal
+1621,0,4.0,Dunn's Famous
+1622,12,3.0,Les 3 Brasseurs
+1623,0,2.0,Dunn's Famous
+1624,0,5.0,Dunn's Famous
+1625,0,4.0,Dunn's Famous
+1626,2,4.0,Stash Café
+1627,12,3.0,Les 3 Brasseurs
+1628,1,5.0,Copper Branch
+1629,12,4.0,Les 3 Brasseurs
+1630,2,4.0,Stash Café
+1631,29,3.0,Cacao 70
+1632,12,2.0,Les 3 Brasseurs
+1633,2,4.0,Stash Café
+1634,4,5.0,Cacao 70
+1635,17,4.0,Les 3 Brasseurs
+1636,2,5.0,Stash Café
+1637,12,3.0,Les 3 Brasseurs
+1638,4,3.0,Cacao 70
+1639,4,5.0,Cacao 70
+1640,20,3.0,The Bier Markt
+1641,17,5.0,Les 3 Brasseurs
+1642,20,4.0,The Bier Markt
+1643,2,5.0,Stash Café
+1644,48,5.0,L'Oeufrier
+1645,6,4.0,Toi Moi & Café
+1646,29,3.0,Cacao 70
+1646,4,1.0,Cacao 70
+1646,13,1.0,L’Entrepôt - Mont-Royal
+1647,3,4.0,La Société Montréal
+1648,2,5.0,Stash Café
+1649,17,3.0,Les 3 Brasseurs
+1650,30,5.0,Second Cup
+1651,9,5.0,Cacao 70
+1652,44,5.0,Atami
+1653,4,4.0,Cacao 70
+1654,1,5.0,Copper Branch
+1655,48,1.0,L'Oeufrier
+1656,12,5.0,Les 3 Brasseurs
+1657,36,1.0,Le Vieux Dublin Pub & Restaurant
+1658,5,4.0,La Chronique
+1659,12,1.0,Les 3 Brasseurs
+1660,3,5.0,La Société Montréal
+1661,25,4.0,Le Warehouse
+1662,10,5.0,Pasta Casareccia
+1663,12,3.0,Les 3 Brasseurs
+1664,30,4.0,Second Cup
+1665,3,5.0,La Société Montréal
+1666,24,1.0,Tri Express
+1667,9,5.0,Cacao 70
+1667,26,4.0,Les 3 Brasseurs
+1668,12,2.0,Les 3 Brasseurs
+1669,2,5.0,Stash Café
+1670,0,3.0,Dunn's Famous
+1671,20,4.0,The Bier Markt
+1672,9,3.0,Cacao 70
+1673,20,1.0,The Bier Markt
+1674,9,5.0,Cacao 70
+1675,0,5.0,Dunn's Famous
+1676,40,2.0,Holiday Inn Montreal Centreville Downtown
+1677,1,4.0,Copper Branch
+1678,38,5.0,Restaurant Sai Gwan
+1679,27,1.0,Pigeon
+1680,33,1.0,Diablos
+1681,33,4.0,Diablos
+1682,33,2.0,Diablos
+1683,33,1.0,Diablos
+1684,33,2.0,Diablos
+1685,33,3.0,Diablos
+1685,0,5.0,Dunn's Famous
+1685,13,3.0,L’Entrepôt - Mont-Royal
+1686,33,1.0,Diablos
+1687,33,5.0,Diablos
+1688,33,2.0,Diablos
+1689,33,1.0,Diablos
+1690,33,2.0,Diablos
+1691,33,4.0,Diablos
+1692,33,5.0,Diablos
+1693,33,3.0,Diablos
+1694,33,5.0,Diablos
+1695,33,3.0,Diablos
+1696,33,5.0,Diablos
+1697,33,4.0,Diablos
+1698,33,1.0,Diablos
+1699,33,3.0,Diablos
+1700,33,1.0,Diablos
+1701,33,2.0,Diablos
+1702,33,3.0,Diablos
+1703,33,2.0,Diablos
+1704,33,2.0,Diablos
+1705,33,2.0,Diablos
+1706,33,5.0,Diablos
+1707,33,5.0,Diablos
+1708,33,3.0,Diablos
+1709,33,5.0,Diablos
+1710,33,5.0,Diablos
+1711,33,1.0,Diablos
+1712,33,5.0,Diablos
+1713,33,3.0,Diablos
+1714,33,4.0,Diablos
+1714,25,4.0,Le Warehouse
+1715,33,5.0,Diablos
+1716,33,4.0,Diablos
+1717,33,2.0,Diablos
+1718,33,1.0,Diablos
+1719,33,4.0,Diablos
+1720,33,4.0,Diablos
+1721,33,5.0,Diablos
+1722,33,5.0,Diablos
+1723,33,2.0,Diablos
+1723,7,2.0,Saint-Laurent Warehouse
+1724,33,5.0,Diablos
+1725,33,1.0,Diablos
+1726,33,1.0,Diablos
+1727,33,1.0,Diablos
+1728,33,4.0,Diablos
+1729,33,5.0,Diablos
+1730,33,5.0,Diablos
+1731,12,4.0,Les 3 Brasseurs
+1732,30,4.0,Second Cup
+1733,17,5.0,Les 3 Brasseurs
+1734,36,2.0,Le Vieux Dublin Pub & Restaurant
+1735,9,5.0,Cacao 70
+1736,0,5.0,Dunn's Famous
+1737,3,2.0,La Société Montréal
+1738,29,2.0,Cacao 70
+1739,30,3.0,Second Cup
+1740,48,4.0,L'Oeufrier
+1741,9,1.0,Cacao 70
+1742,2,4.0,Stash Café
+1743,20,3.0,The Bier Markt
+1744,1,4.0,Copper Branch
+1744,0,5.0,Dunn's Famous
+1745,12,4.0,Les 3 Brasseurs
+1746,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+1747,9,5.0,Cacao 70
+1748,13,4.0,L’Entrepôt - Mont-Royal
+1749,25,3.0,Le Warehouse
+1750,9,4.0,Cacao 70
+1751,2,5.0,Stash Café
+1752,20,4.0,The Bier Markt
+1753,0,4.0,Dunn's Famous
+1754,20,1.0,The Bier Markt
+1755,14,4.0,La Bella Italiana
+1756,65,3.0,Cabine M
+1757,14,5.0,La Bella Italiana
+1758,9,4.0,Cacao 70
+1759,2,5.0,Stash Café
+1760,20,3.0,The Bier Markt
+1760,26,3.0,Les 3 Brasseurs
+1761,26,4.0,Les 3 Brasseurs
+1762,44,4.0,Atami
+1763,9,5.0,Cacao 70
+1764,63,3.0,Copper Branch
+1765,13,4.0,L’Entrepôt - Mont-Royal
+1766,36,3.0,Le Vieux Dublin Pub & Restaurant
+1767,17,4.0,Les 3 Brasseurs
+1768,17,2.0,Les 3 Brasseurs
+1769,0,2.0,Dunn's Famous
+1770,12,3.0,Les 3 Brasseurs
+1771,2,1.0,Stash Café
+1772,20,3.0,The Bier Markt
+1773,17,2.0,Les 3 Brasseurs
+1774,1,5.0,Copper Branch
+1775,17,4.0,Les 3 Brasseurs
+1776,16,2.0,Restaurant Bitoque
+1777,17,3.0,Les 3 Brasseurs
+1778,4,3.0,Cacao 70
+1779,9,5.0,Cacao 70
+1780,9,4.0,Cacao 70
+1781,1,5.0,Copper Branch
+1782,1,4.0,Copper Branch
+1783,9,4.0,Cacao 70
+1784,0,3.0,Dunn's Famous
+1785,9,5.0,Cacao 70
+1785,25,5.0,Le Warehouse
+1786,0,4.0,Dunn's Famous
+1787,26,5.0,Les 3 Brasseurs
+1788,12,5.0,Les 3 Brasseurs
+1789,29,2.0,Cacao 70
+1790,22,4.0,Mon Shing
+1791,1,5.0,Copper Branch
+1792,2,3.0,Stash Café
+1793,14,5.0,La Bella Italiana
+1794,17,4.0,Les 3 Brasseurs
+1795,48,5.0,L'Oeufrier
+1796,17,2.0,Les 3 Brasseurs
+1797,3,4.0,La Société Montréal
+1798,17,4.0,Les 3 Brasseurs
+1799,17,4.0,Les 3 Brasseurs
+1800,0,4.0,Dunn's Famous
+1801,12,4.0,Les 3 Brasseurs
+1801,30,4.0,Second Cup
+1802,25,4.0,Le Warehouse
+1803,29,5.0,Cacao 70
+1804,12,1.0,Les 3 Brasseurs
+1805,24,5.0,Tri Express
+1806,12,5.0,Les 3 Brasseurs
+1807,29,1.0,Cacao 70
+1808,9,5.0,Cacao 70
+1809,3,3.0,La Société Montréal
+1810,2,5.0,Stash Café
+1811,9,2.0,Cacao 70
+1812,34,1.0,Bâton Rouge Steakhouse & Bar
+1813,12,5.0,Les 3 Brasseurs
+1814,12,5.0,Les 3 Brasseurs
+1815,29,4.0,Cacao 70
+1816,20,4.0,The Bier Markt
+1817,0,3.0,Dunn's Famous
+1818,2,5.0,Stash Café
+1819,13,3.0,L’Entrepôt - Mont-Royal
+1820,66,2.0,Burger King
+1821,1,1.0,Copper Branch
+1822,25,5.0,Le Warehouse
+1823,20,1.0,The Bier Markt
+1824,20,5.0,The Bier Markt
+1825,20,1.0,The Bier Markt
+1826,20,4.0,The Bier Markt
+1827,20,3.0,The Bier Markt
+1828,20,5.0,The Bier Markt
+1829,20,4.0,The Bier Markt
+1830,20,3.0,The Bier Markt
+1830,17,4.0,Les 3 Brasseurs
+1831,20,5.0,The Bier Markt
+1832,20,4.0,The Bier Markt
+1833,20,4.0,The Bier Markt
+1834,20,5.0,The Bier Markt
+1835,20,2.0,The Bier Markt
+1836,20,5.0,The Bier Markt
+1837,20,5.0,The Bier Markt
+1837,17,4.0,Les 3 Brasseurs
+1838,20,3.0,The Bier Markt
+1839,20,3.0,The Bier Markt
+1839,9,4.0,Cacao 70
+1840,20,3.0,The Bier Markt
+1841,20,5.0,The Bier Markt
+1842,20,1.0,The Bier Markt
+1843,20,5.0,The Bier Markt
+1844,20,3.0,The Bier Markt
+1845,20,4.0,The Bier Markt
+1846,20,3.0,The Bier Markt
+1847,20,1.0,The Bier Markt
+1848,20,4.0,The Bier Markt
+1849,20,4.0,The Bier Markt
+1850,20,2.0,The Bier Markt
+1851,20,4.0,The Bier Markt
+1852,20,3.0,The Bier Markt
+1853,20,1.0,The Bier Markt
+1854,20,4.0,The Bier Markt
+1855,20,5.0,The Bier Markt
+1856,20,5.0,The Bier Markt
+1857,20,2.0,The Bier Markt
+1858,20,3.0,The Bier Markt
+1859,20,4.0,The Bier Markt
+1860,20,4.0,The Bier Markt
+1861,20,4.0,The Bier Markt
+1862,20,4.0,The Bier Markt
+1863,20,3.0,The Bier Markt
+1864,20,3.0,The Bier Markt
+1865,20,3.0,The Bier Markt
+1866,20,4.0,The Bier Markt
+1867,20,3.0,The Bier Markt
+1868,20,4.0,The Bier Markt
+1869,20,3.0,The Bier Markt
+1870,20,4.0,The Bier Markt
+1871,20,5.0,The Bier Markt
+1872,20,4.0,The Bier Markt
+1873,20,3.0,The Bier Markt
+1874,20,5.0,The Bier Markt
+1875,20,5.0,The Bier Markt
+1876,20,3.0,The Bier Markt
+1877,20,1.0,The Bier Markt
+1878,20,3.0,The Bier Markt
+1878,0,4.0,Dunn's Famous
+1879,20,5.0,The Bier Markt
+1879,0,5.0,Dunn's Famous
+1880,20,3.0,The Bier Markt
+1881,20,4.0,The Bier Markt
+1882,20,1.0,The Bier Markt
+1883,20,4.0,The Bier Markt
+1884,20,1.0,The Bier Markt
+1885,20,4.0,The Bier Markt
+1886,20,5.0,The Bier Markt
+1887,20,2.0,The Bier Markt
+1887,5,5.0,La Chronique
+1888,20,2.0,The Bier Markt
+1889,20,5.0,The Bier Markt
+1890,20,1.0,The Bier Markt
+1891,20,3.0,The Bier Markt
+1892,20,1.0,The Bier Markt
+1893,20,1.0,The Bier Markt
+1894,20,1.0,The Bier Markt
+1895,20,4.0,The Bier Markt
+1896,20,1.0,The Bier Markt
+1897,20,4.0,The Bier Markt
+1898,20,5.0,The Bier Markt
+1898,26,4.0,Les 3 Brasseurs
+1899,20,4.0,The Bier Markt
+1900,20,4.0,The Bier Markt
+1901,20,4.0,The Bier Markt
+1902,0,5.0,Dunn's Famous
+1903,5,5.0,La Chronique
+1904,9,5.0,Cacao 70
+1905,48,5.0,L'Oeufrier
+1906,9,5.0,Cacao 70
+1907,9,4.0,Cacao 70
+1908,9,5.0,Cacao 70
+1909,2,4.0,Stash Café
+1909,30,3.0,Second Cup
+1910,17,4.0,Les 3 Brasseurs
+1911,12,2.0,Les 3 Brasseurs
+1912,25,4.0,Le Warehouse
+1913,13,3.0,L’Entrepôt - Mont-Royal
+1914,63,4.0,Copper Branch
+1915,5,1.0,La Chronique
+1916,1,2.0,Copper Branch
+1917,6,2.0,Toi Moi & Café
+1918,13,4.0,L’Entrepôt - Mont-Royal
+1919,2,5.0,Stash Café
+1920,3,2.0,La Société Montréal
+1921,12,3.0,Les 3 Brasseurs
+1922,48,1.0,L'Oeufrier
+1922,48,1.0,L'Oeufrier
+1923,66,3.0,Burger King
+1923,22,1.0,Mon Shing
+1924,58,5.0,Casserole Kréole
+1925,15,3.0,Freshii
+1925,9,4.0,Cacao 70
+1926,55,1.0,Ristorante Il Cenone
+1927,29,1.0,Cacao 70
+1928,40,3.0,Holiday Inn Montreal Centreville Downtown
+1929,13,5.0,L’Entrepôt - Mont-Royal
+1930,14,5.0,La Bella Italiana
+1931,14,5.0,La Bella Italiana
+1932,14,5.0,La Bella Italiana
+1933,14,4.0,La Bella Italiana
+1934,14,4.0,La Bella Italiana
+1935,14,5.0,La Bella Italiana
+1936,14,4.0,La Bella Italiana
+1937,14,5.0,La Bella Italiana
+1938,14,3.0,La Bella Italiana
+1939,14,5.0,La Bella Italiana
+1940,17,5.0,Les 3 Brasseurs
+1941,29,2.0,Cacao 70
+1942,0,4.0,Dunn's Famous
+1943,22,2.0,Mon Shing
+1943,16,3.0,Restaurant Bitoque
+1944,0,4.0,Dunn's Famous
+1945,13,2.0,L’Entrepôt - Mont-Royal
+1946,25,3.0,Le Warehouse
+1947,17,4.0,Les 3 Brasseurs
+1948,17,1.0,Les 3 Brasseurs
+1949,3,4.0,La Société Montréal
+1950,12,4.0,Les 3 Brasseurs
+1951,1,5.0,Copper Branch
+1952,12,2.0,Les 3 Brasseurs
+1953,6,4.0,Toi Moi & Café
+1954,17,1.0,Les 3 Brasseurs
+1955,2,5.0,Stash Café
+1956,36,2.0,Le Vieux Dublin Pub & Restaurant
+1957,0,5.0,Dunn's Famous
+1958,17,4.0,Les 3 Brasseurs
+1959,0,4.0,Dunn's Famous
+1960,3,4.0,La Société Montréal
+1961,24,5.0,Tri Express
+1962,24,2.0,Tri Express
+1963,38,5.0,Restaurant Sai Gwan
+1964,2,5.0,Stash Café
+1965,2,5.0,Stash Café
+1966,36,3.0,Le Vieux Dublin Pub & Restaurant
+1967,9,5.0,Cacao 70
+1968,24,5.0,Tri Express
+1969,12,3.0,Les 3 Brasseurs
+1970,24,4.0,Tri Express
+1971,9,5.0,Cacao 70
+1972,67,4.0,Copper Branch
+1973,0,4.0,Dunn's Famous
+1974,0,3.0,Dunn's Famous
+1975,26,4.0,Les 3 Brasseurs
+1976,2,5.0,Stash Café
+1977,16,4.0,Restaurant Bitoque
+1978,24,1.0,Tri Express
+1979,34,1.0,Bâton Rouge Steakhouse & Bar
+1980,13,4.0,L’Entrepôt - Mont-Royal
+1981,48,1.0,L'Oeufrier
+1982,9,4.0,Cacao 70
+1983,38,4.0,Restaurant Sai Gwan
+1984,12,4.0,Les 3 Brasseurs
+1985,0,4.0,Dunn's Famous
+1986,27,3.0,Pigeon
+1987,51,1.0,Copper Branch
+1988,51,5.0,Copper Branch
+1989,51,5.0,Copper Branch
+1990,51,4.0,Copper Branch
+1991,51,1.0,Copper Branch
+1992,51,3.0,Copper Branch
+1993,24,1.0,Tri Express
+1994,17,2.0,Les 3 Brasseurs
+1995,25,2.0,Le Warehouse
+1996,24,5.0,Tri Express
+1997,15,3.0,Freshii
+1998,15,4.0,Freshii
+1999,15,1.0,Freshii
+2000,15,2.0,Freshii
+2001,15,1.0,Freshii
+2002,24,5.0,Tri Express
+2003,3,4.0,La Société Montréal
+2004,12,2.0,Les 3 Brasseurs
+2005,12,4.0,Les 3 Brasseurs
+2006,29,3.0,Cacao 70
+2007,2,3.0,Stash Café
+2008,2,5.0,Stash Café
+2009,49,1.0,Dany Pizza
+2010,25,1.0,Le Warehouse
+2011,12,2.0,Les 3 Brasseurs
+2012,2,5.0,Stash Café
+2013,25,1.0,Le Warehouse
+2014,12,4.0,Les 3 Brasseurs
+2015,9,5.0,Cacao 70
+2016,2,5.0,Stash Café
+2017,13,2.0,L’Entrepôt - Mont-Royal
+2018,13,2.0,L’Entrepôt - Mont-Royal
+2019,13,5.0,L’Entrepôt - Mont-Royal
+2020,9,4.0,Cacao 70
+2021,2,5.0,Stash Café
+2022,17,3.0,Les 3 Brasseurs
+2023,2,5.0,Stash Café
+2024,2,4.0,Stash Café
+2025,0,3.0,Dunn's Famous
+2026,9,3.0,Cacao 70
+2027,12,2.0,Les 3 Brasseurs
+2028,17,2.0,Les 3 Brasseurs
+2029,17,4.0,Les 3 Brasseurs
+2030,34,1.0,Bâton Rouge Steakhouse & Bar
+2030,44,5.0,Atami
+2031,17,3.0,Les 3 Brasseurs
+2032,29,2.0,Cacao 70
+2033,2,5.0,Stash Café
+2034,26,4.0,Les 3 Brasseurs
+2035,12,5.0,Les 3 Brasseurs
+2036,25,4.0,Le Warehouse
+2037,2,5.0,Stash Café
+2038,1,4.0,Copper Branch
+2039,1,5.0,Copper Branch
+2040,9,5.0,Cacao 70
+2041,30,5.0,Second Cup
+2042,12,2.0,Les 3 Brasseurs
+2042,17,2.0,Les 3 Brasseurs
+2043,40,3.0,Holiday Inn Montreal Centreville Downtown
+2044,16,3.0,Restaurant Bitoque
+2045,12,4.0,Les 3 Brasseurs
+2046,12,4.0,Les 3 Brasseurs
+2047,12,1.0,Les 3 Brasseurs
+2048,0,4.0,Dunn's Famous
+2049,0,4.0,Dunn's Famous
+2050,12,4.0,Les 3 Brasseurs
+2051,17,2.0,Les 3 Brasseurs
+2052,4,2.0,Cacao 70
+2053,30,4.0,Second Cup
+2053,40,4.0,Holiday Inn Montreal Centreville Downtown
+2054,12,1.0,Les 3 Brasseurs
+2055,22,2.0,Mon Shing
+2056,40,3.0,Holiday Inn Montreal Centreville Downtown
+2057,12,5.0,Les 3 Brasseurs
+2058,12,1.0,Les 3 Brasseurs
+2059,13,1.0,L’Entrepôt - Mont-Royal
+2060,12,5.0,Les 3 Brasseurs
+2061,2,5.0,Stash Café
+2062,0,5.0,Dunn's Famous
+2063,34,2.0,Bâton Rouge Steakhouse & Bar
+2064,12,5.0,Les 3 Brasseurs
+2065,3,4.0,La Société Montréal
+2066,2,5.0,Stash Café
+2067,17,5.0,Les 3 Brasseurs
+2068,24,4.0,Tri Express
+2069,12,4.0,Les 3 Brasseurs
+2070,13,5.0,L’Entrepôt - Mont-Royal
+2071,0,5.0,Dunn's Famous
+2072,9,5.0,Cacao 70
+2073,40,4.0,Holiday Inn Montreal Centreville Downtown
+2074,0,2.0,Dunn's Famous
+2075,2,4.0,Stash Café
+2076,4,5.0,Cacao 70
+2077,17,4.0,Les 3 Brasseurs
+2078,12,5.0,Les 3 Brasseurs
+2079,36,2.0,Le Vieux Dublin Pub & Restaurant
+2080,2,4.0,Stash Café
+2081,2,4.0,Stash Café
+2082,12,5.0,Les 3 Brasseurs
+2083,17,4.0,Les 3 Brasseurs
+2084,13,4.0,L’Entrepôt - Mont-Royal
+2085,17,4.0,Les 3 Brasseurs
+2086,17,2.0,Les 3 Brasseurs
+2087,17,5.0,Les 3 Brasseurs
+2088,2,5.0,Stash Café
+2089,38,3.0,Restaurant Sai Gwan
+2090,0,2.0,Dunn's Famous
+2091,24,5.0,Tri Express
+2092,17,4.0,Les 3 Brasseurs
+2093,2,5.0,Stash Café
+2094,12,2.0,Les 3 Brasseurs
+2095,0,4.0,Dunn's Famous
+2096,26,2.0,Les 3 Brasseurs
+2097,12,3.0,Les 3 Brasseurs
+2098,2,4.0,Stash Café
+2099,12,4.0,Les 3 Brasseurs
+2100,9,4.0,Cacao 70
+2101,9,5.0,Cacao 70
+2102,40,4.0,Holiday Inn Montreal Centreville Downtown
+2103,12,3.0,Les 3 Brasseurs
+2104,13,3.0,L’Entrepôt - Mont-Royal
+2105,2,5.0,Stash Café
+2106,17,4.0,Les 3 Brasseurs
+2107,9,3.0,Cacao 70
+2108,13,4.0,L’Entrepôt - Mont-Royal
+2109,27,5.0,Pigeon
+2110,25,5.0,Le Warehouse
+2111,25,5.0,Le Warehouse
+2112,9,3.0,Cacao 70
+2113,9,5.0,Cacao 70
+2114,9,4.0,Cacao 70
+2115,9,4.0,Cacao 70
+2116,9,5.0,Cacao 70
+2117,9,3.0,Cacao 70
+2118,9,5.0,Cacao 70
+2119,9,5.0,Cacao 70
+2120,9,1.0,Cacao 70
+2121,9,5.0,Cacao 70
+2122,9,4.0,Cacao 70
+2123,9,2.0,Cacao 70
+2124,9,2.0,Cacao 70
+2125,9,4.0,Cacao 70
+2126,9,5.0,Cacao 70
+2127,9,1.0,Cacao 70
+2128,9,5.0,Cacao 70
+2129,9,4.0,Cacao 70
+2130,9,5.0,Cacao 70
+2131,9,3.0,Cacao 70
+2132,9,4.0,Cacao 70
+2133,9,2.0,Cacao 70
+2134,9,5.0,Cacao 70
+2135,9,4.0,Cacao 70
+2136,9,4.0,Cacao 70
+2137,9,5.0,Cacao 70
+2137,4,1.0,Cacao 70
+2138,9,4.0,Cacao 70
+2139,9,5.0,Cacao 70
+2140,9,1.0,Cacao 70
+2141,9,2.0,Cacao 70
+2142,9,4.0,Cacao 70
+2143,9,4.0,Cacao 70
+2144,9,4.0,Cacao 70
+2145,9,5.0,Cacao 70
+2146,9,5.0,Cacao 70
+2147,9,4.0,Cacao 70
+2148,9,2.0,Cacao 70
+2149,9,1.0,Cacao 70
+2150,9,2.0,Cacao 70
+2151,9,5.0,Cacao 70
+2152,9,5.0,Cacao 70
+2153,9,5.0,Cacao 70
+2154,9,3.0,Cacao 70
+2154,26,4.0,Les 3 Brasseurs
+2155,9,5.0,Cacao 70
+2156,9,4.0,Cacao 70
+2157,9,4.0,Cacao 70
+2158,9,5.0,Cacao 70
+2159,9,4.0,Cacao 70
+2160,9,3.0,Cacao 70
+2161,9,4.0,Cacao 70
+2161,17,4.0,Les 3 Brasseurs
+2162,9,3.0,Cacao 70
+2163,9,5.0,Cacao 70
+2163,13,5.0,L’Entrepôt - Mont-Royal
+2164,9,5.0,Cacao 70
+2165,9,5.0,Cacao 70
+2166,9,5.0,Cacao 70
+2167,9,1.0,Cacao 70
+2168,9,5.0,Cacao 70
+2169,9,4.0,Cacao 70
+2170,9,5.0,Cacao 70
+2171,9,4.0,Cacao 70
+2172,9,5.0,Cacao 70
+2173,9,2.0,Cacao 70
+2174,9,5.0,Cacao 70
+2175,9,4.0,Cacao 70
+2176,9,4.0,Cacao 70
+2177,9,1.0,Cacao 70
+2178,9,5.0,Cacao 70
+2179,9,4.0,Cacao 70
+2180,9,5.0,Cacao 70
+2181,9,4.0,Cacao 70
+2182,9,4.0,Cacao 70
+2183,9,5.0,Cacao 70
+2184,17,4.0,Les 3 Brasseurs
+2185,13,5.0,L’Entrepôt - Mont-Royal
+2186,17,5.0,Les 3 Brasseurs
+2187,38,3.0,Restaurant Sai Gwan
+2188,29,2.0,Cacao 70
+2189,7,5.0,Saint-Laurent Warehouse
+2190,17,3.0,Les 3 Brasseurs
+2191,26,3.0,Les 3 Brasseurs
+2192,0,5.0,Dunn's Famous
+2193,24,5.0,Tri Express
+2194,38,4.0,Restaurant Sai Gwan
+2195,24,5.0,Tri Express
+2196,0,4.0,Dunn's Famous
+2197,25,5.0,Le Warehouse
+2198,22,1.0,Mon Shing
+2199,26,5.0,Les 3 Brasseurs
+2200,12,2.0,Les 3 Brasseurs
+2201,6,1.0,Toi Moi & Café
+2202,17,5.0,Les 3 Brasseurs
+2203,2,4.0,Stash Café
+2204,17,4.0,Les 3 Brasseurs
+2205,12,3.0,Les 3 Brasseurs
+2206,6,5.0,Toi Moi & Café
+2207,25,1.0,Le Warehouse
+2208,17,4.0,Les 3 Brasseurs
+2209,12,2.0,Les 3 Brasseurs
+2210,1,4.0,Copper Branch
+2211,25,4.0,Le Warehouse
+2212,10,2.0,Pasta Casareccia
+2213,50,4.0,Copper Branch
+2214,17,5.0,Les 3 Brasseurs
+2215,25,3.0,Le Warehouse
+2216,0,5.0,Dunn's Famous
+2217,1,3.0,Copper Branch
+2218,0,2.0,Dunn's Famous
+2219,5,5.0,La Chronique
+2220,17,3.0,Les 3 Brasseurs
+2221,2,5.0,Stash Café
+2222,0,3.0,Dunn's Famous
+2223,25,4.0,Le Warehouse
+2224,2,5.0,Stash Café
+2225,22,5.0,Mon Shing
+2226,24,3.0,Tri Express
+2227,40,1.0,Holiday Inn Montreal Centreville Downtown
+2228,16,4.0,Restaurant Bitoque
+2229,12,3.0,Les 3 Brasseurs
+2230,17,3.0,Les 3 Brasseurs
+2231,4,5.0,Cacao 70
+2232,24,4.0,Tri Express
+2233,12,3.0,Les 3 Brasseurs
+2234,0,3.0,Dunn's Famous
+2235,24,4.0,Tri Express
+2236,25,4.0,Le Warehouse
+2237,0,5.0,Dunn's Famous
+2238,16,5.0,Restaurant Bitoque
+2239,0,5.0,Dunn's Famous
+2240,10,2.0,Pasta Casareccia
+2241,10,5.0,Pasta Casareccia
+2242,10,5.0,Pasta Casareccia
+2243,10,4.0,Pasta Casareccia
+2244,10,4.0,Pasta Casareccia
+2245,10,2.0,Pasta Casareccia
+2246,10,1.0,Pasta Casareccia
+2247,12,4.0,Les 3 Brasseurs
+2248,7,1.0,Saint-Laurent Warehouse
+2249,7,5.0,Saint-Laurent Warehouse
+2250,7,2.0,Saint-Laurent Warehouse
+2251,7,5.0,Saint-Laurent Warehouse
+2252,7,5.0,Saint-Laurent Warehouse
+2253,2,5.0,Stash Café
+2254,5,5.0,La Chronique
+2255,2,4.0,Stash Café
+2256,6,1.0,Toi Moi & Café
+2257,56,2.0,Taj Mahal de l'Ouest
+2258,56,5.0,Taj Mahal de l'Ouest
+2259,56,5.0,Taj Mahal de l'Ouest
+2260,0,5.0,Dunn's Famous
+2260,13,4.0,L’Entrepôt - Mont-Royal
+2261,13,2.0,L’Entrepôt - Mont-Royal
+2262,25,3.0,Le Warehouse
+2263,29,2.0,Cacao 70
+2264,0,3.0,Dunn's Famous
+2265,17,4.0,Les 3 Brasseurs
+2266,17,4.0,Les 3 Brasseurs
+2267,0,4.0,Dunn's Famous
+2268,5,5.0,La Chronique
+2269,3,5.0,La Société Montréal
+2270,2,5.0,Stash Café
+2271,12,4.0,Les 3 Brasseurs
+2272,12,3.0,Les 3 Brasseurs
+2273,26,5.0,Les 3 Brasseurs
+2274,12,4.0,Les 3 Brasseurs
+2275,4,4.0,Cacao 70
+2276,24,3.0,Tri Express
+2277,0,4.0,Dunn's Famous
+2278,2,4.0,Stash Café
+2279,12,5.0,Les 3 Brasseurs
+2280,4,2.0,Cacao 70
+2281,17,4.0,Les 3 Brasseurs
+2282,3,4.0,La Société Montréal
+2283,2,5.0,Stash Café
+2284,55,5.0,Ristorante Il Cenone
+2285,2,5.0,Stash Café
+2286,25,5.0,Le Warehouse
+2287,13,4.0,L’Entrepôt - Mont-Royal
+2288,12,3.0,Les 3 Brasseurs
+2289,17,4.0,Les 3 Brasseurs
+2290,3,4.0,La Société Montréal
+2291,17,5.0,Les 3 Brasseurs
+2292,2,5.0,Stash Café
+2293,3,4.0,La Société Montréal
+2294,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+2295,0,5.0,Dunn's Famous
+2296,26,4.0,Les 3 Brasseurs
+2297,26,4.0,Les 3 Brasseurs
+2298,0,5.0,Dunn's Famous
+2299,2,4.0,Stash Café
+2300,4,1.0,Cacao 70
+2301,22,3.0,Mon Shing
+2302,13,4.0,L’Entrepôt - Mont-Royal
+2303,12,2.0,Les 3 Brasseurs
+2304,25,4.0,Le Warehouse
+2305,12,3.0,Les 3 Brasseurs
+2306,40,1.0,Holiday Inn Montreal Centreville Downtown
+2307,3,4.0,La Société Montréal
+2308,26,1.0,Les 3 Brasseurs
+2309,26,3.0,Les 3 Brasseurs
+2310,26,5.0,Les 3 Brasseurs
+2311,40,1.0,Holiday Inn Montreal Centreville Downtown
+2312,12,2.0,Les 3 Brasseurs
+2313,30,4.0,Second Cup
+2314,0,4.0,Dunn's Famous
+2315,1,5.0,Copper Branch
+2316,0,3.0,Dunn's Famous
+2317,2,5.0,Stash Café
+2318,0,4.0,Dunn's Famous
+2319,17,3.0,Les 3 Brasseurs
+2320,13,3.0,L’Entrepôt - Mont-Royal
+2321,13,4.0,L’Entrepôt - Mont-Royal
+2322,12,4.0,Les 3 Brasseurs
+2323,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+2324,12,5.0,Les 3 Brasseurs
+2325,26,5.0,Les 3 Brasseurs
+2326,25,5.0,Le Warehouse
+2327,3,3.0,La Société Montréal
+2328,30,1.0,Second Cup
+2329,0,4.0,Dunn's Famous
+2330,25,4.0,Le Warehouse
+2331,48,3.0,L'Oeufrier
+2331,59,5.0,Pasteizza
+2332,17,4.0,Les 3 Brasseurs
+2333,13,4.0,L’Entrepôt - Mont-Royal
+2334,25,5.0,Le Warehouse
+2335,5,4.0,La Chronique
+2336,44,3.0,Atami
+2337,63,1.0,Copper Branch
+2338,63,5.0,Copper Branch
+2339,63,5.0,Copper Branch
+2340,63,1.0,Copper Branch
+2341,63,1.0,Copper Branch
+2342,63,4.0,Copper Branch
+2343,63,2.0,Copper Branch
+2344,2,4.0,Stash Café
+2345,29,4.0,Cacao 70
+2346,13,5.0,L’Entrepôt - Mont-Royal
+2347,37,4.0,Da Bologna
+2348,1,4.0,Copper Branch
+2349,66,1.0,Burger King
+2350,3,4.0,La Société Montréal
+2351,30,5.0,Second Cup
+2352,29,4.0,Cacao 70
+2353,17,5.0,Les 3 Brasseurs
+2354,34,2.0,Bâton Rouge Steakhouse & Bar
+2355,40,4.0,Holiday Inn Montreal Centreville Downtown
+2356,3,1.0,La Société Montréal
+2357,26,2.0,Les 3 Brasseurs
+2358,29,5.0,Cacao 70
+2359,12,1.0,Les 3 Brasseurs
+2360,4,4.0,Cacao 70
+2361,30,5.0,Second Cup
+2362,0,2.0,Dunn's Famous
+2363,48,1.0,L'Oeufrier
+2364,48,5.0,L'Oeufrier
+2365,48,1.0,L'Oeufrier
+2366,48,1.0,L'Oeufrier
+2367,5,5.0,La Chronique
+2368,2,5.0,Stash Café
+2369,0,2.0,Dunn's Famous
+2370,2,5.0,Stash Café
+2371,2,5.0,Stash Café
+2372,34,3.0,Bâton Rouge Steakhouse & Bar
+2373,40,1.0,Holiday Inn Montreal Centreville Downtown
+2374,38,4.0,Restaurant Sai Gwan
+2375,17,5.0,Les 3 Brasseurs
+2376,0,5.0,Dunn's Famous
+2377,12,2.0,Les 3 Brasseurs
+2378,58,5.0,Casserole Kréole
+2379,58,5.0,Casserole Kréole
+2379,62,3.0,Mammina
+2380,42,5.0,Petit Tokebi Le
+2381,42,5.0,Petit Tokebi Le
+2382,2,4.0,Stash Café
+2383,43,5.0,Misoya - Cuisine Japonaise Et Coréenne
+2384,35,5.0,Wendy's
+2385,25,4.0,Le Warehouse
+2386,17,5.0,Les 3 Brasseurs
+2387,2,5.0,Stash Café
+2388,17,4.0,Les 3 Brasseurs
+2389,29,4.0,Cacao 70
+2390,2,5.0,Stash Café
+2391,40,3.0,Holiday Inn Montreal Centreville Downtown
+2392,5,5.0,La Chronique
+2393,3,3.0,La Société Montréal
+2394,24,5.0,Tri Express
+2395,24,5.0,Tri Express
+2396,0,3.0,Dunn's Famous
+2397,0,3.0,Dunn's Famous
+2398,2,5.0,Stash Café
+2399,12,2.0,Les 3 Brasseurs
+2400,6,1.0,Toi Moi & Café
+2401,25,4.0,Le Warehouse
+2402,2,5.0,Stash Café
+2403,2,4.0,Stash Café
+2404,2,4.0,Stash Café
+2405,2,5.0,Stash Café
+2406,2,4.0,Stash Café
+2407,2,5.0,Stash Café
+2408,2,5.0,Stash Café
+2409,2,5.0,Stash Café
+2410,2,3.0,Stash Café
+2411,2,5.0,Stash Café
+2412,2,5.0,Stash Café
+2413,2,4.0,Stash Café
+2414,2,5.0,Stash Café
+2415,2,5.0,Stash Café
+2416,2,4.0,Stash Café
+2417,2,2.0,Stash Café
+2418,2,5.0,Stash Café
+2419,2,5.0,Stash Café
+2420,2,2.0,Stash Café
+2421,2,5.0,Stash Café
+2422,2,4.0,Stash Café
+2423,2,5.0,Stash Café
+2424,2,4.0,Stash Café
+2425,2,4.0,Stash Café
+2426,2,4.0,Stash Café
+2427,2,5.0,Stash Café
+2428,2,1.0,Stash Café
+2429,2,5.0,Stash Café
+2430,2,4.0,Stash Café
+2431,2,5.0,Stash Café
+2432,2,5.0,Stash Café
+2433,2,4.0,Stash Café
+2434,2,5.0,Stash Café
+2435,2,4.0,Stash Café
+2436,2,5.0,Stash Café
+2437,2,5.0,Stash Café
+2438,2,5.0,Stash Café
+2439,2,5.0,Stash Café
+2440,2,5.0,Stash Café
+2441,2,5.0,Stash Café
+2442,2,4.0,Stash Café
+2443,2,5.0,Stash Café
+2444,2,5.0,Stash Café
+2445,2,5.0,Stash Café
+2446,2,4.0,Stash Café
+2447,2,5.0,Stash Café
+2448,2,5.0,Stash Café
+2449,2,4.0,Stash Café
+2450,2,4.0,Stash Café
+2451,2,3.0,Stash Café
+2452,2,5.0,Stash Café
+2453,2,3.0,Stash Café
+2454,2,5.0,Stash Café
+2455,2,5.0,Stash Café
+2456,2,5.0,Stash Café
+2457,2,4.0,Stash Café
+2458,2,5.0,Stash Café
+2459,2,4.0,Stash Café
+2460,2,5.0,Stash Café
+2461,2,5.0,Stash Café
+2462,2,5.0,Stash Café
+2463,2,4.0,Stash Café
+2464,2,4.0,Stash Café
+2465,2,5.0,Stash Café
+2466,2,5.0,Stash Café
+2467,2,5.0,Stash Café
+2468,2,1.0,Stash Café
+2469,2,4.0,Stash Café
+2470,2,5.0,Stash Café
+2471,2,4.0,Stash Café
+2471,0,4.0,Dunn's Famous
+2472,2,5.0,Stash Café
+2473,2,4.0,Stash Café
+2474,2,5.0,Stash Café
+2475,2,5.0,Stash Café
+2476,2,5.0,Stash Café
+2477,2,5.0,Stash Café
+2478,2,5.0,Stash Café
+2479,2,5.0,Stash Café
+2480,2,5.0,Stash Café
+2481,2,5.0,Stash Café
+2482,2,5.0,Stash Café
+2483,2,5.0,Stash Café
+2484,2,5.0,Stash Café
+2485,2,5.0,Stash Café
+2486,2,5.0,Stash Café
+2487,2,5.0,Stash Café
+2488,2,5.0,Stash Café
+2489,2,5.0,Stash Café
+2490,2,5.0,Stash Café
+2491,2,5.0,Stash Café
+2492,0,5.0,Dunn's Famous
+2493,4,2.0,Cacao 70
+2494,25,4.0,Le Warehouse
+2495,38,3.0,Restaurant Sai Gwan
+2496,34,3.0,Bâton Rouge Steakhouse & Bar
+2497,3,4.0,La Société Montréal
+2498,1,4.0,Copper Branch
+2499,13,3.0,L’Entrepôt - Mont-Royal
+2500,0,5.0,Dunn's Famous
+2501,1,3.0,Copper Branch
+2502,17,4.0,Les 3 Brasseurs
+2503,3,4.0,La Société Montréal
+2504,12,5.0,Les 3 Brasseurs
+2505,40,3.0,Holiday Inn Montreal Centreville Downtown
+2506,23,4.0,Restaurant Granada
+2507,17,1.0,Les 3 Brasseurs
+2508,36,1.0,Le Vieux Dublin Pub & Restaurant
+2509,36,1.0,Le Vieux Dublin Pub & Restaurant
+2510,36,3.0,Le Vieux Dublin Pub & Restaurant
+2511,36,4.0,Le Vieux Dublin Pub & Restaurant
+2512,36,3.0,Le Vieux Dublin Pub & Restaurant
+2513,36,1.0,Le Vieux Dublin Pub & Restaurant
+2514,36,4.0,Le Vieux Dublin Pub & Restaurant
+2515,36,2.0,Le Vieux Dublin Pub & Restaurant
+2516,0,4.0,Dunn's Famous
+2517,0,1.0,Dunn's Famous
+2518,6,4.0,Toi Moi & Café
+2519,4,4.0,Cacao 70
+2520,0,3.0,Dunn's Famous
+2521,17,2.0,Les 3 Brasseurs
+2522,3,5.0,La Société Montréal
+2523,50,3.0,Copper Branch
+2524,5,4.0,La Chronique
+2525,5,5.0,La Chronique
+2526,5,5.0,La Chronique
+2527,5,5.0,La Chronique
+2528,5,3.0,La Chronique
+2529,5,5.0,La Chronique
+2530,5,2.0,La Chronique
+2531,6,1.0,Toi Moi & Café
+2532,64,4.0,Via Pizza
+2533,12,4.0,Les 3 Brasseurs
+2534,12,4.0,Les 3 Brasseurs
+2535,40,3.0,Holiday Inn Montreal Centreville Downtown
+2536,11,1.0,Scéna
+2537,12,4.0,Les 3 Brasseurs
+2538,13,4.0,L’Entrepôt - Mont-Royal
+2539,25,5.0,Le Warehouse
+2539,13,4.0,L’Entrepôt - Mont-Royal
+2540,13,4.0,L’Entrepôt - Mont-Royal
+2541,61,1.0,Vincent Sous Marin
+2542,6,1.0,Toi Moi & Café
+2543,13,4.0,L’Entrepôt - Mont-Royal
+2544,6,5.0,Toi Moi & Café
+2544,6,5.0,Toi Moi & Café
+2545,12,4.0,Les 3 Brasseurs
+2546,0,3.0,Dunn's Famous
+2547,17,3.0,Les 3 Brasseurs
+2548,25,3.0,Le Warehouse
+2548,12,1.0,Les 3 Brasseurs
+2549,25,4.0,Le Warehouse
+2550,12,3.0,Les 3 Brasseurs
+2551,25,4.0,Le Warehouse
+2552,12,2.0,Les 3 Brasseurs
+2553,26,4.0,Les 3 Brasseurs
+2554,1,5.0,Copper Branch
+2555,1,5.0,Copper Branch
+2556,1,5.0,Copper Branch
+2557,1,4.0,Copper Branch
+2558,1,5.0,Copper Branch
+2559,1,5.0,Copper Branch
+2560,1,5.0,Copper Branch
+2561,1,4.0,Copper Branch
+2562,1,5.0,Copper Branch
+2563,1,5.0,Copper Branch
+2564,1,5.0,Copper Branch
+2565,1,5.0,Copper Branch
+2565,1,1.0,Copper Branch
+2565,1,5.0,Copper Branch
+2565,1,5.0,Copper Branch
+2566,1,3.0,Copper Branch
+2567,1,4.0,Copper Branch
+2568,1,5.0,Copper Branch
+2569,1,4.0,Copper Branch
+2570,29,3.0,Cacao 70
+2571,0,5.0,Dunn's Famous
+2572,0,5.0,Dunn's Famous
+2573,22,3.0,Mon Shing
+2574,26,5.0,Les 3 Brasseurs
+2575,0,2.0,Dunn's Famous
+2576,0,4.0,Dunn's Famous
+2577,25,4.0,Le Warehouse
+2577,17,5.0,Les 3 Brasseurs
+2578,30,1.0,Second Cup
+2579,29,3.0,Cacao 70
+2580,26,1.0,Les 3 Brasseurs
+2581,12,4.0,Les 3 Brasseurs
+2582,12,4.0,Les 3 Brasseurs
+2583,12,4.0,Les 3 Brasseurs
+2584,24,3.0,Tri Express
+2585,26,4.0,Les 3 Brasseurs
+2586,17,3.0,Les 3 Brasseurs
+2587,34,3.0,Bâton Rouge Steakhouse & Bar
+2588,26,5.0,Les 3 Brasseurs
+2589,3,3.0,La Société Montréal
+2590,22,1.0,Mon Shing
+2591,22,2.0,Mon Shing
+2592,22,4.0,Mon Shing
+2593,22,4.0,Mon Shing
+2594,22,1.0,Mon Shing
+2595,22,1.0,Mon Shing
+2596,22,1.0,Mon Shing
+2597,22,3.0,Mon Shing
+2598,39,5.0,La Concession- Boutique + Comptoir Alimentaire
+2599,12,3.0,Les 3 Brasseurs
+2600,0,5.0,Dunn's Famous
+2601,25,4.0,Le Warehouse
+2602,25,1.0,Le Warehouse
+2603,25,5.0,Le Warehouse
+2604,25,1.0,Le Warehouse
+2605,25,1.0,Le Warehouse
+2606,25,5.0,Le Warehouse
+2607,25,1.0,Le Warehouse
+2608,25,2.0,Le Warehouse
+2609,25,3.0,Le Warehouse
+2610,25,1.0,Le Warehouse
+2611,25,1.0,Le Warehouse
+2612,25,4.0,Le Warehouse
+2613,25,5.0,Le Warehouse
+2614,25,1.0,Le Warehouse
+2615,25,2.0,Le Warehouse
+2616,25,5.0,Le Warehouse
+2617,25,1.0,Le Warehouse
+2618,25,2.0,Le Warehouse
+2619,25,3.0,Le Warehouse
+2620,25,4.0,Le Warehouse
+2621,0,5.0,Dunn's Famous
+2622,4,1.0,Cacao 70
+2623,3,4.0,La Société Montréal
+2624,3,2.0,La Société Montréal
+2625,3,5.0,La Société Montréal
+2626,3,3.0,La Société Montréal
+2627,3,5.0,La Société Montréal
+2628,3,3.0,La Société Montréal
+2629,3,1.0,La Société Montréal
+2630,3,5.0,La Société Montréal
+2631,3,5.0,La Société Montréal
+2632,3,5.0,La Société Montréal
+2633,3,4.0,La Société Montréal
+2634,3,5.0,La Société Montréal
+2635,3,5.0,La Société Montréal
+2636,3,5.0,La Société Montréal
+2637,3,5.0,La Société Montréal
+2638,3,5.0,La Société Montréal
+2639,3,5.0,La Société Montréal
+2640,3,5.0,La Société Montréal
+2641,3,4.0,La Société Montréal
+2642,3,2.0,La Société Montréal
+2643,3,5.0,La Société Montréal
+2644,3,2.0,La Société Montréal
+2645,3,2.0,La Société Montréal
+2646,3,3.0,La Société Montréal
+2647,3,1.0,La Société Montréal
+2648,12,1.0,Les 3 Brasseurs
+2649,12,4.0,Les 3 Brasseurs
+2650,0,3.0,Dunn's Famous
+2651,0,4.0,Dunn's Famous
+2652,30,1.0,Second Cup
+2653,59,5.0,Pasteizza
+2654,12,4.0,Les 3 Brasseurs
+2655,17,4.0,Les 3 Brasseurs
+2656,26,5.0,Les 3 Brasseurs
+2657,17,1.0,Les 3 Brasseurs
+2658,12,3.0,Les 3 Brasseurs
+2659,0,4.0,Dunn's Famous
+2660,0,5.0,Dunn's Famous
+2661,30,4.0,Second Cup
+2662,29,1.0,Cacao 70
+2663,29,5.0,Cacao 70
+2664,29,1.0,Cacao 70
+2665,29,1.0,Cacao 70
+2666,29,1.0,Cacao 70
+2667,29,1.0,Cacao 70
+2668,29,1.0,Cacao 70
+2669,29,5.0,Cacao 70
+2670,29,5.0,Cacao 70
+2671,29,5.0,Cacao 70
+2672,29,5.0,Cacao 70
+2673,29,2.0,Cacao 70
+2674,29,1.0,Cacao 70
+2675,29,1.0,Cacao 70
+2676,29,1.0,Cacao 70
+2677,29,5.0,Cacao 70
+2678,29,5.0,Cacao 70
+2679,29,1.0,Cacao 70
+2680,38,1.0,Restaurant Sai Gwan
+2681,0,4.0,Dunn's Famous
+2682,12,4.0,Les 3 Brasseurs
+2683,41,2.0,Noobox
+2684,17,1.0,Les 3 Brasseurs
+2685,27,5.0,Pigeon
+2686,0,5.0,Dunn's Famous
+2687,12,2.0,Les 3 Brasseurs
+2688,16,3.0,Restaurant Bitoque
+2689,13,1.0,L’Entrepôt - Mont-Royal
+2690,17,4.0,Les 3 Brasseurs
+2691,41,1.0,Noobox
+2692,27,5.0,Pigeon
+2693,27,5.0,Pigeon
+2694,27,4.0,Pigeon
+2695,27,5.0,Pigeon
+2696,27,5.0,Pigeon
+2697,0,2.0,Dunn's Famous
+2698,30,1.0,Second Cup
+2699,40,1.0,Holiday Inn Montreal Centreville Downtown
+2700,18,3.0,Wendy's
+2701,62,5.0,Mammina
+2702,12,3.0,Les 3 Brasseurs
+2703,6,3.0,Toi Moi & Café
+2704,12,5.0,Les 3 Brasseurs
+2705,12,5.0,Les 3 Brasseurs
+2706,12,2.0,Les 3 Brasseurs
+2707,12,1.0,Les 3 Brasseurs
+2708,12,4.0,Les 3 Brasseurs
+2709,12,1.0,Les 3 Brasseurs
+2710,12,1.0,Les 3 Brasseurs
+2711,12,1.0,Les 3 Brasseurs
+2712,12,3.0,Les 3 Brasseurs
+2713,12,4.0,Les 3 Brasseurs
+2714,12,4.0,Les 3 Brasseurs
+2715,12,4.0,Les 3 Brasseurs
+2716,12,4.0,Les 3 Brasseurs
+2717,12,2.0,Les 3 Brasseurs
+2718,12,2.0,Les 3 Brasseurs
+2719,12,4.0,Les 3 Brasseurs
+2720,12,3.0,Les 3 Brasseurs
+2721,12,4.0,Les 3 Brasseurs
+2722,12,4.0,Les 3 Brasseurs
+2723,12,3.0,Les 3 Brasseurs
+2724,12,2.0,Les 3 Brasseurs
+2725,12,1.0,Les 3 Brasseurs
+2726,12,5.0,Les 3 Brasseurs
+2727,12,2.0,Les 3 Brasseurs
+2728,12,3.0,Les 3 Brasseurs
+2729,12,1.0,Les 3 Brasseurs
+2730,12,4.0,Les 3 Brasseurs
+2731,12,2.0,Les 3 Brasseurs
+2732,12,3.0,Les 3 Brasseurs
+2733,12,1.0,Les 3 Brasseurs
+2734,12,1.0,Les 3 Brasseurs
+2735,12,4.0,Les 3 Brasseurs
+2736,12,2.0,Les 3 Brasseurs
+2737,12,1.0,Les 3 Brasseurs
+2738,12,1.0,Les 3 Brasseurs
+2739,12,1.0,Les 3 Brasseurs
+2740,12,3.0,Les 3 Brasseurs
+2741,12,5.0,Les 3 Brasseurs
+2742,12,4.0,Les 3 Brasseurs
+2743,12,1.0,Les 3 Brasseurs
+2744,12,5.0,Les 3 Brasseurs
+2745,12,1.0,Les 3 Brasseurs
+2746,12,3.0,Les 3 Brasseurs
+2747,12,3.0,Les 3 Brasseurs
+2748,13,4.0,L’Entrepôt - Mont-Royal
+2749,4,3.0,Cacao 70
+2750,17,3.0,Les 3 Brasseurs
+2751,0,5.0,Dunn's Famous
+2752,44,5.0,Atami
+2753,13,4.0,L’Entrepôt - Mont-Royal
+2754,4,5.0,Cacao 70
+2755,47,3.0,Copper Branch
+2756,30,1.0,Second Cup
+2757,26,1.0,Les 3 Brasseurs
+2758,17,4.0,Les 3 Brasseurs
+2759,0,4.0,Dunn's Famous
+2760,37,4.0,Da Bologna
+2761,13,4.0,L’Entrepôt - Mont-Royal
+2762,13,1.0,L’Entrepôt - Mont-Royal
+2763,40,3.0,Holiday Inn Montreal Centreville Downtown
+2764,34,1.0,Bâton Rouge Steakhouse & Bar
+2765,24,5.0,Tri Express
+2766,24,5.0,Tri Express
+2767,24,4.0,Tri Express
+2768,24,1.0,Tri Express
+2769,24,1.0,Tri Express
+2770,24,5.0,Tri Express
+2771,24,4.0,Tri Express
+2772,0,5.0,Dunn's Famous
+2773,0,5.0,Dunn's Famous
+2774,0,1.0,Dunn's Famous
+2775,0,5.0,Dunn's Famous
+2776,0,5.0,Dunn's Famous
+2777,0,4.0,Dunn's Famous
+2778,0,4.0,Dunn's Famous
+2779,0,4.0,Dunn's Famous
+2780,0,1.0,Dunn's Famous
+2781,0,4.0,Dunn's Famous
+2782,0,5.0,Dunn's Famous
+2783,0,5.0,Dunn's Famous
+2784,0,4.0,Dunn's Famous
+2785,0,4.0,Dunn's Famous
+2786,0,5.0,Dunn's Famous
+2787,0,3.0,Dunn's Famous
+2788,0,3.0,Dunn's Famous
+2789,0,1.0,Dunn's Famous
+2790,0,2.0,Dunn's Famous
+2791,0,5.0,Dunn's Famous
+2792,0,4.0,Dunn's Famous
+2793,0,5.0,Dunn's Famous
+2794,0,4.0,Dunn's Famous
+2795,0,5.0,Dunn's Famous
+2796,0,5.0,Dunn's Famous
+2797,0,1.0,Dunn's Famous
+2798,0,5.0,Dunn's Famous
+2799,0,2.0,Dunn's Famous
+2800,0,1.0,Dunn's Famous
+2801,0,5.0,Dunn's Famous
+2802,0,5.0,Dunn's Famous
+2803,0,5.0,Dunn's Famous
+2804,0,5.0,Dunn's Famous
+2805,0,4.0,Dunn's Famous
+2806,0,5.0,Dunn's Famous
+2807,0,4.0,Dunn's Famous
+2808,0,2.0,Dunn's Famous
+2809,0,1.0,Dunn's Famous
+2810,0,5.0,Dunn's Famous
+2811,38,4.0,Restaurant Sai Gwan
+2812,4,5.0,Cacao 70
+2813,4,5.0,Cacao 70
+2814,4,1.0,Cacao 70
+2815,4,4.0,Cacao 70
+2816,4,5.0,Cacao 70
+2817,4,1.0,Cacao 70
+2818,4,5.0,Cacao 70
+2819,4,1.0,Cacao 70
+2820,4,5.0,Cacao 70
+2821,4,1.0,Cacao 70
+2822,4,5.0,Cacao 70
+2823,4,1.0,Cacao 70
+2824,30,5.0,Second Cup
+2825,30,3.0,Second Cup
+2826,30,5.0,Second Cup
+2827,30,1.0,Second Cup
+2828,30,3.0,Second Cup
+2829,30,3.0,Second Cup
+2830,30,5.0,Second Cup
+2831,17,4.0,Les 3 Brasseurs
+2832,17,4.0,Les 3 Brasseurs
+2833,17,3.0,Les 3 Brasseurs
+2834,17,4.0,Les 3 Brasseurs
+2835,17,1.0,Les 3 Brasseurs
+2836,17,3.0,Les 3 Brasseurs
+2837,17,3.0,Les 3 Brasseurs
+2838,17,2.0,Les 3 Brasseurs
+2839,17,2.0,Les 3 Brasseurs
+2840,17,4.0,Les 3 Brasseurs
+2841,17,1.0,Les 3 Brasseurs
+2842,17,5.0,Les 3 Brasseurs
+2843,17,2.0,Les 3 Brasseurs
+2844,17,2.0,Les 3 Brasseurs
+2845,17,4.0,Les 3 Brasseurs
+2846,17,4.0,Les 3 Brasseurs
+2847,17,4.0,Les 3 Brasseurs
+2848,17,4.0,Les 3 Brasseurs
+2849,17,5.0,Les 3 Brasseurs
+2850,17,4.0,Les 3 Brasseurs
+2851,17,1.0,Les 3 Brasseurs
+2852,17,1.0,Les 3 Brasseurs
+2853,17,4.0,Les 3 Brasseurs
+2854,17,5.0,Les 3 Brasseurs
+2855,17,5.0,Les 3 Brasseurs
+2856,17,3.0,Les 3 Brasseurs
+2857,17,1.0,Les 3 Brasseurs
+2858,17,1.0,Les 3 Brasseurs
+2859,17,4.0,Les 3 Brasseurs
+2860,17,5.0,Les 3 Brasseurs
+2861,17,5.0,Les 3 Brasseurs
+2862,13,5.0,L’Entrepôt - Mont-Royal
+2863,40,3.0,Holiday Inn Montreal Centreville Downtown
+2864,40,2.0,Holiday Inn Montreal Centreville Downtown
+2865,40,4.0,Holiday Inn Montreal Centreville Downtown
+2866,40,3.0,Holiday Inn Montreal Centreville Downtown
+2867,40,1.0,Holiday Inn Montreal Centreville Downtown
+2868,40,4.0,Holiday Inn Montreal Centreville Downtown
+2869,40,2.0,Holiday Inn Montreal Centreville Downtown
+2870,40,4.0,Holiday Inn Montreal Centreville Downtown
+2871,41,1.0,Noobox
+2872,13,5.0,L’Entrepôt - Mont-Royal
+2873,31,4.0,Dairy Queen - Orange Julius
+2874,39,5.0,La Concession- Boutique + Comptoir Alimentaire
+2875,13,4.0,L’Entrepôt - Mont-Royal
+2876,6,1.0,Toi Moi & Café
+2877,6,5.0,Toi Moi & Café
+2878,26,5.0,Les 3 Brasseurs
+2879,13,5.0,L’Entrepôt - Mont-Royal
+2880,13,1.0,L’Entrepôt - Mont-Royal
+2881,13,5.0,L’Entrepôt - Mont-Royal
+2882,13,4.0,L’Entrepôt - Mont-Royal
+2883,13,4.0,L’Entrepôt - Mont-Royal
+2884,13,4.0,L’Entrepôt - Mont-Royal
+2885,13,4.0,L’Entrepôt - Mont-Royal
+2886,13,5.0,L’Entrepôt - Mont-Royal
+2887,13,2.0,L’Entrepôt - Mont-Royal
+2888,13,5.0,L’Entrepôt - Mont-Royal
+2889,26,1.0,Les 3 Brasseurs
+2890,26,4.0,Les 3 Brasseurs
+2891,26,3.0,Les 3 Brasseurs
+2892,26,4.0,Les 3 Brasseurs
+2893,26,5.0,Les 3 Brasseurs
+2894,26,4.0,Les 3 Brasseurs
+2895,26,5.0,Les 3 Brasseurs
+2896,26,5.0,Les 3 Brasseurs
+2897,26,5.0,Les 3 Brasseurs
+2898,26,1.0,Les 3 Brasseurs
+2899,26,1.0,Les 3 Brasseurs
+2900,26,5.0,Les 3 Brasseurs
+2901,26,2.0,Les 3 Brasseurs
+2902,26,5.0,Les 3 Brasseurs
+2903,26,4.0,Les 3 Brasseurs
+2904,39,4.0,La Concession- Boutique + Comptoir Alimentaire
+2905,39,5.0,La Concession- Boutique + Comptoir Alimentaire
+2906,39,5.0,La Concession- Boutique + Comptoir Alimentaire
+2907,39,1.0,La Concession- Boutique + Comptoir Alimentaire
+2908,38,1.0,Restaurant Sai Gwan
+2909,38,5.0,Restaurant Sai Gwan
+2910,38,5.0,Restaurant Sai Gwan
+2911,34,2.0,Bâton Rouge Steakhouse & Bar
+2912,34,1.0,Bâton Rouge Steakhouse & Bar
+2913,34,4.0,Bâton Rouge Steakhouse & Bar
+2914,44,5.0,Atami
+2915,44,1.0,Atami
+2916,44,4.0,Atami
+2917,44,5.0,Atami
+2918,44,5.0,Atami
+2919,67,1.0,Copper Branch
